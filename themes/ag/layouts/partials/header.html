@@ -1,0 +1,40 @@
+<header>
+	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<nav class="a11y-navigation" aria-label="Accessibility navigation">
+			<ul>
+			  <li>
+				<a class="sr-only sr-show-on-focus" accesskey="0" href="/" title="[Alt+0] Page d'accueil">L'Auberge des Gourmets</a>
+			  </li>
+			  <li>
+				<a class="sr-only sr-show-on-focus" accesskey="1" href="#menu" title="[Alt+1] Navigation dans le site">Navigation du site</a>
+			  </li>
+			  <li>
+				<a class="sr-only sr-show-on-focus" accesskey="2" href="#main" title="[Alt+2] Aller au contenu de la page">Aller au contenu</a>
+			  </li>
+			</ul>
+		  </nav>
+		  <header>
+			<nav role="menubar" id="menu">
+			  <ul>
+				{{ if .Page.Site.Params.mainMenu }}
+				  {{ range first 1 .Page.Site.Params.mainMenu }}
+					<li>
+					  <a href="{{ .link }}">
+						{{ .text }}
+					  </a>
+					</li>
+				  {{ end }}
+				  {{ if ( gt ( len .Page.Site.Params.mainMenu ) 1 ) }}
+					{{ range after 1 .Page.Site.Params.mainMenu }}
+						<li>
+						  <a href="{{ .link }}">
+							{{ .text }}
+						  </a>
+						</li>
+					{{ end }}
+				  {{ end }}
+				{{ end }}
+			  </ul>
+			</nav>
+		  </header>
+</header>

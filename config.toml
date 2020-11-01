@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "L'Auberge des Groumets"
+theme = "ag"
+
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
+
+[[params.mainMenu]]
+	link = "/"
+	text = "L'Auberge des Gourmets"
+
+[[params.mainMenu]]
+	link = "/guillaume-laublanc"
+	text = "Guillaume Laublanc"
+
+[[params.mainMenu]]
+	link = "/carte-menu"
+	text = "Carte et Menu"
+
+[[params.mainMenu]]
+	link = "/tourisme-tournus"
+	text = "Tourisme dans les environs"
+
+[[params.mainMenu]]
+	link = "/producteurs"
+	text = "Les producteurs"
+	
+[[params.mainMenu]]
+	link = "/situation-contact"
+	text = "Situation/Contact"	
