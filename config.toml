@@ -11,7 +11,7 @@ theme = "ag"
 [menu]
   [[menu.main]]
 		identifier = "homepage"
-		name = "L'Auberge des Gourmets"
+		name = "Restaurant"
 		url = "/"
 		weight = 1 
 
@@ -23,24 +23,24 @@ theme = "ag"
 
   [[menu.main]]
 		identifier = "carte-menu"
-		name = "Carte et Menu"
+		name = "Menu"
 		url = "/carte-menu/"
 		weight = 3
 
   [[menu.main]]
 		identifier = "tourisme-tournus"
-		name = "Tourisme dans les environs"
+		name = "Tourisme"
 		url = "/tourisme-tournus/"
 		weight = 4
 
   [[menu.main]]
 		identifier = "producteurs"
-		name = "Les producteurs"
+		name = "Producteurs"
 		url = "/producteurs/"
 		weight = 5
 
   [[menu.main]]
 		identifier = "situation-contact"
-		name = "Situation Contact"
+		name = "Contact"
 		url = "/situation-contact/"
 		weight = 6

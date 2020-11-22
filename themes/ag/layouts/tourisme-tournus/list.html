@@ -1,0 +1,33 @@
+{{ define "main" }}
+	<main>
+		{{ if .Content }}
+		<div>
+			LIST TOURISM
+			{{ with .Content }}<div>{{ . }}</div>{{ end }}
+		</div>
+		{{ end }}
+		<div>
+			{{ range .Data.Pages }}
+				
+				<ul class="items">
+					<li class="item">
+						<a href="{{.Permalink}}">
+							<h2>
+								{{.Title}}
+							  </h2>
+							{{ if .Params.subtitle }}
+							  <h2>{{ .Params.subtitle }}</h2>
+							{{ end }}
+							{{ if .Params.location }}
+							  <h3>{{ .Params.location }}</h3>
+							{{ end }}
+							{{ if .Params.km }}
+							  <p>Distance : {{ .Params.km }}</p>
+							{{ end }}	
+						</a>
+					</li>
+				</ul>
+			{{ end }}
+		</div>
+	</main>
+{{ end }}
