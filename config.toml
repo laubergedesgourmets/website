@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/"
-languageCode = "en-us"
+baseURL = "https://laubergedesgourmets.zufrieden.io/"
+languageCode = "fr-fr"
 title = "L'Auberge des Groumets"
 theme = "ag"
 
