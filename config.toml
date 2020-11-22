@@ -1,34 +1,46 @@
-baseURL = "http://example.org/"
-languageCode = "fr-fr"
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
 title = "L'Auberge des Groumets"
 theme = "ag"
-
 
 [markup]
   [markup.goldmark]
 	[markup.goldmark.renderer]
 	  unsafe = true
 
-[[params.mainMenu]]
-	link = "/"
-	text = "L'Auberge des Gourmets"
+[menu]
+  [[menu.main]]
+		identifier = "homepage"
+		name = "L'Auberge des Gourmets"
+		url = "/"
+		weight = 1 
 
-[[params.mainMenu]]
-	link = "/guillaume-laublanc"
-	text = "Guillaume Laublanc"
+  [[menu.main]]
+		identifier = "guillaume-laublanc"
+		name = "Guillaume Laublanc"
+		url = "/guillaume-laublanc/"
+		weight = 2 
 
-[[params.mainMenu]]
-	link = "/carte-menu"
-	text = "Carte et Menu"
+  [[menu.main]]
+		identifier = "carte-menu"
+		name = "Carte et Menu"
+		url = "/carte-menu/"
+		weight = 3
 
-[[params.mainMenu]]
-	link = "/tourisme-tournus"
-	text = "Tourisme dans les environs"
+  [[menu.main]]
+		identifier = "tourisme-tournus"
+		name = "Tourisme dans les environs"
+		url = "/tourisme-tournus/"
+		weight = 4
 
-[[params.mainMenu]]
-	link = "/producteurs"
-	text = "Les producteurs"
-	
-[[params.mainMenu]]
-	link = "/situation-contact"
-	text = "Situation/Contact"	
+  [[menu.main]]
+		identifier = "producteurs"
+		name = "Les producteurs"
+		url = "/producteurs/"
+		weight = 5
+
+  [[menu.main]]
+		identifier = "situation-contact"
+		name = "Situation Contact"
+		url = "/situation-contact/"
+		weight = 6

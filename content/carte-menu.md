@@ -1,9 +1,13 @@
+---
+title: Carte et Menu de L'Auberge des Gourmets
+date: 2020-11-22T12:34:44+01:00
+draft: false
+type: page
+---
+
 # Carte et Menu
 
-* [Menu du Marché]({{< ref "_index.md#menu-du-marché" >}})
-* [Menu à la carte]({{< ref "_index.md#menu-à-la-carte" >}})
-* [Origine des produits]({{< ref "_index.md#un-petit-tour-chez-nos-producteurs" >}})
-* [Carte des vins]({{< ref "_index.md#balade-dans-les-vignes" >}})
+
 
 ## Menu du Marché
 
