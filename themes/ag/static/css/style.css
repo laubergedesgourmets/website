@@ -41,8 +41,14 @@ body{
   margin: 0;
   color: #000;
 }
-
+main{
+  max-width: 50rem;
+  margin: auto;
+}
 @supports (display: grid) and (not (-ms-ime-align: auto)) {
+	main{
+	 max-width: none;	
+	}
   .container{
 	display: grid;
 	width: 100%;
@@ -107,10 +113,7 @@ header nav a:hover{
   text-decoration: underline;
 }
 
-main{
-  max-width: 50rem;
-  margin: auto;
-}
+
 
 table{
 	width: 100%;
@@ -124,6 +127,7 @@ table tr td:last-child{
 h1, h2, h3, h4, h5{
   font-family: Serif;
   word-wrap: break-word;
+  text-align: center;
 }
 h1, .h1, .h-huge {
   font-size: calc(3.1em + 1vw);
@@ -157,7 +161,11 @@ h4, .h4 {
   margin-top: 0;
   margin-bottom: 0;
 }
-
+.center{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 p, ul, ol, pre, table, blockquote {
   line-height: 1.43em;
@@ -187,13 +195,15 @@ input, textarea, keygen, select, button{
   font-size: 100%;
 }
 
-
 .items{
 	list-style: none;
-	margin: 0;
+	margin: 2em;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1rem;
+	display: grid;
+    grid-gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));	
 }
 .items .item{
 	padding: 1em;
@@ -203,4 +213,15 @@ input, textarea, keygen, select, button{
 .items .item a{
 	color: #000;
 	text-decoration: none;
+}
+
+
+/* specific */
+#guillaume-sign{
+	display: block;
+	width: 80vw;
+	max-width: 600px;
+	height: auto;
+	margin-top: 0em;
+	margin-bottom: 3em;
 }

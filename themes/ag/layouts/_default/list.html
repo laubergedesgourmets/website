@@ -1,9 +1,7 @@
 {{ define "main" }}
-	<main>
-		{{ if .Content }}
-		<div>
-			{{ with .Content }}<div>{{ . }}</div>{{ end }}
-		</div>
-		{{ end }}
-	</main>
+	{{ if .Content }}
+	<div>
+		{{ with .Content }}<div>{{ . }}</div>{{ end }}
+	</div>
+	{{ end }}
 {{ end }}

@@ -1,24 +1,20 @@
 {{ define "main" }}
-<main>
-	<article>
-		PRODUCTEUR > 
-		<h1>{{ .Title }}</h1>
-		{{ if .Params.subtitle }}
-		  <h2>{{ .Params.subtitle }}</h2>
-		{{ end }}
-		{{ if .Params.location }}
-		  <h3>{{ .Params.location }}</h3>
-		{{ end }}
-		{{ if .Params.products }}
-		  <p>Produits : {{ .Params.products }}</p>
-		{{ end }}
-		{{ if .Params.km }}
-		  <p>Distance : {{ .Params.km }}</p>
-		{{ end }}		
-	  
-		  {{ .Content }}
-
-	</article>
-	
-</main>
+<article>
+	PRODUCTEUR > 
+	<h1>{{ .Title }}</h1>
+	{{ if .Params.subtitle }}
+	  <h2>{{ .Params.subtitle }}</h2>
+	{{ end }}
+	{{ if .Params.location }}
+	  <h3>{{ .Params.location }}</h3>
+	{{ end }}
+	{{ if .Params.products }}
+	  <p>Produits : {{ .Params.products }}</p>
+	{{ end }}
+	{{ if .Params.km }}
+	  <p>Distance : {{ .Params.km }}</p>
+	{{ end }}		
+  
+	  {{ .Content }}
+</article>
 {{ end }}
