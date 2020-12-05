@@ -1,3 +1,21 @@
+@font-face {
+  font-family:"didot";
+  src:url("Didot Regular.woff2") format("woff2"),url("Didot Regular.woff") format("woff"),url("Didot Regular.otf") format("opentype");
+  font-style:normal;font-weight:300;
+}
+
+@font-face {
+    font-family:"poppins";
+    src:url("Poppins-Bold.woff2") format("woff2"),url("Poppins-Bold.woff") format("woff"),url("Poppins-Bold.otf") format("opentype");
+    font-style:normal;font-weight:600;
+}
+
+@font-face {
+    font-family:"poppins";
+    src:url("Poppins-Regular.woff2") format("woff2"),url("Poppins-Regular.woff") format("woff"),url("Poppins-Regular.otf") format("opentype");
+    font-style:normal;font-weight:300;
+}
+
 /* A11Y */
 .a11y-navigation{
   position: fixed;
@@ -31,12 +49,12 @@
 
 
 html{
-	  font-size: 20px;
+	  font-size: 16px;
 	}
 body{
-  font-family: ,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
-  font-size: calc(0.7em + 1vw);
-  font-size: -webkit-calc(70% + 1vw);
+  font-family: poppins,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-size: calc(0.5em + 1vw);
+  font-size: -webkit-calc(50% + 1vw);
   background-color: #fff;
   margin: 0;
   color: #000;
@@ -125,13 +143,13 @@ table tr td:last-child{
 
 /* Typography */
 h1, h2, h3, h4, h5{
-  font-family: Serif;
+  font-family: didot, Serif;
   word-wrap: break-word;
   text-align: center;
 }
 h1, .h1, .h-huge {
-  font-size: calc(3.1em + 1vw);
-  font-size: -webkit-calc(310% + 1vw);
+  font-size: calc(2.1em + 1vw);
+  font-size: -webkit-calc(210% + 1vw);
   line-height: 1.1em;
   font-weight: normal;
   margin-top: 0;
@@ -195,6 +213,15 @@ input, textarea, keygen, select, button{
   font-size: 100%;
 }
 
+hr{
+  border: 2px solid #E97B3A;
+  width: 4em;
+  margin-left: 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+
 .items{
 	list-style: none;
 	margin: 2em;
@@ -208,13 +235,22 @@ input, textarea, keygen, select, button{
 .items .item{
 	padding: 1em;
 	background: #F1EBDA;
-	box-shadow: -10px 16px 30px rgba(0, 0, 0, 0.1);
+	box-shadow: -0.25em 0.25em 0.5em rgb(0,0,0,0.15);
 }
 .items .item a{
 	color: #000;
 	text-decoration: none;
 }
 
+/* box */
+.box{
+  padding: 1.5em 2em;
+  margin: 1em 1em 4em;
+  box-shadow: -1em 1em 1.5em rgb(0,0,0,0.25), -2em 2em 0 #3B59C6, -3em 3em 1.5em rgb(0,0,0,0.15);
+}
+.box *{
+  text-align: left;
+}
 
 /* specific */
 #guillaume-sign{
