@@ -53,8 +53,8 @@ html{
 	}
 body{
   font-family: poppins,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
-  font-size: calc(0.5em + 1vw);
-  font-size: -webkit-calc(50% + 1vw);
+  font-size: calc(0.8em + 0.5vw);
+  font-size: -webkit-calc(80% + 0.5vw);
   background-color: #fff;
   margin: 0;
   color: #000;
@@ -73,7 +73,7 @@ main{
 	max-width: 100%;
 	grid-template-columns:
 	[full-start] minmax(1em, 1fr)
-	[main-start] minmax(0, 40em) [main-end]
+	[main-start] minmax(0, 50em) [main-end]
 	minmax(1em, 1fr) [full-end];
   }
   .container>*{
@@ -107,7 +107,7 @@ a:visited{
 }
 
 header{
-  margin-bottom: 10vh;
+  margin-bottom: 4vh;
 }
 header nav ul{
   display: flex;
@@ -152,8 +152,8 @@ h1, .h1, .h-huge {
   font-size: -webkit-calc(210% + 1vw);
   line-height: 1.1em;
   font-weight: normal;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 h2, .h2 {
   font-size: calc(1.2em + 1vw);
@@ -244,12 +244,25 @@ hr{
 
 /* box */
 .box{
-  padding: 1.5em 2em;
-  margin: 1em 1em 4em;
-  box-shadow: -1em 1em 1.5em rgb(0,0,0,0.25), -2em 2em 0 #3B59C6, -3em 3em 1.5em rgb(0,0,0,0.15);
+  display: grid;
+  grid-gap: 0 0;
+  grid-template-columns: repeat(auto-fit, minmax(min(350px, 100%), 1fr));	
 }
-.box *{
+.box-content{
+  padding: 1.5em 2em;
+  margin: 1em 0 4em;
+  box-shadow: -1em 1em 1.5em rgb(0,0,0,0.25), -2em 2em 0 #3B59C6, -3em 3em 1.5em rgb(0,0,0,0.15);
+  position: relative;
+}
+
+.box-content *{
   text-align: left;
+}
+.box-img{
+  margin: 3em 0 1em 0;
+  object-fit: cover;
+  max-height: 24em;
+  width: 100%;
 }
 
 /* specific */
@@ -260,4 +273,10 @@ hr{
 	height: auto;
 	margin-top: 0em;
 	margin-bottom: 3em;
+}
+
+.instagram_feed{
+  background: #F1EBDA;
+  margin: 3em 0;
+  padding: 3em;
 }
