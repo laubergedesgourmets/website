@@ -11,9 +11,8 @@ type: page
 
 ## Menu du Marché
 
-Selon l’inspiration du chef et les produits de saisons
+### Selon l’inspiration du chef et les produits de saisons
 
-Servi uniquement les midis de semaine hors jours fériés
 
 Menu du marché                   | Prix
 ---------------------------------|------
@@ -21,7 +20,9 @@ Entrée, plat ou plat, dessert    | 16,50 €
 Entrée, plat, fromage ou dessert | 25,50 €
 Entrée, plat, fromage, dessert   | 29,50 €
 
-**Entrée 8 €/Plat 12,50 €/Dessert 8 €**
+**Entrée 8 € / Plat 12,50 € / Dessert 8 €**
+
+_Servi uniquement les midis de semaine hors jours fériés_
 
 ## Menu à la carte
 
@@ -31,67 +32,47 @@ Entrée, Plat, Dessert	         | 38,50 €
 Entrée, Plat, Fromage et Dessert | 45,50 €	
 
 ### Pour débuter
+
+Entrées au choix | Prix
+---------------------------------|------
+Gros oeuf mollet et pleurotes bio, émulsion au lard fumé, réduction vin rouge | 15 €
+Risotto d’épeautre, gigolettes de cuisses de grenouilles, émulsion persil | 15 €
+Petit clin d’oeil à ma maman, Tourte feuilletée aux escargots petits gris d’Etrigny, fondue de  côte de bettes, jus de viande | 15 €
+Médaillon de foie gras des Landes cuit au naturel, chutney aux coings _(Supplément menu 5 €)_ | 19 €
+
 _(Prix à la carte)_
-
-Gros oeuf mollet et pleurotes bio, émulsion au lard fumé, réduction vin rouge
-15 €
-
-Risotto d’épeautre, gigolettes de cuisses de grenouilles, émulsion persil
-15 €
-
-Petit clin d’oeil à ma maman, Tourte feuilletée aux escargots petits gris d’Etrigny, fondue de  côte de bettes, jus de viande  
-15 €
-
-Médaillon de foie gras des Landes cuit au naturel, chutney aux coings
-(Supplément menu 5 €)
-19 €
-
 
 ### Pour suivre
+
+Plats au choix | Prix
+---------------------------------|------
+Pigeon de Baudrières en deux façons, jus réduit au cacao, tartine d’abats | 25 €
+Chasse du moment | 25 €
+Jambonnette de poulette de Bresse de chez Johan Morand, morilles, crème de vin jaune | 25€
+Pavé de sandre de nos rivières cuit côté peau, infusion aux shitakés bio | 25€
+
 _servis avec la garniture du marché (Prix à la carte)_
 
-Pigeon de Baudrières en deux façons, jus réduit au cacao, tartine d’abats
-25 €
-
-Chasse du moment
-25 €
-
-Jambonnette de poulette de Bresse de chez Johan Morand, morilles, crème de vin jaune 
-25€
-
-Pavé de sandre de nos rivières cuit côté peau, infusion aux shitakés bio
-25€
-
 ### Pour terminer
+
+Dessert/Fromage au choix | Prix
+---------------------------------|------
+Fromage blanc bio de la ferme des Muses à votre goût | 6 €
+Assiette de 3 fromages affinés du moment | 9 €
+Chocophile | 9 €
+Sablé breton, poires rôties et caramel à la fleur de sel | 9 €
+Baba maison, ananas confits, rhum arrangé à votre convenance | 9 €
+Café ou thé des Gourmets | 9 €
+
 _(Prix à la carte)_
 
-Fromage blanc bio de la ferme des Muses à votre goût
-6 €
+## Menu enfant à 12 €
 
-Assiette de 3 fromages affinés du moment
-9 €
+### Sirop à l’eau et apéro 
 
-Chocophile 
-9 €
+### Suggestion du chef (poisson ou viande) garniture du moment 
 
-Sablé breton, poires rôties et caramel à la fleur de sel
-9 €
-
-Baba maison, ananas confits, rhum arrangé à votre convenance
-9 €
-
-Café ou thé des Gourmets
-9 €
-
-
-## Menu enfant
-12 €
-
-Sirop à l’eau et apéro
-
-Suggestion du chef (poisson ou viande) garniture du moment
-
-Glaces maison au choix
+### Glaces maison au choix
 
 
 

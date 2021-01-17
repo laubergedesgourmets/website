@@ -1,0 +1,6 @@
+<div class="banner{{ with .Get "class" }} {{.}}{{ end }}">
+	<img src="/{{ with .Get "img1" }}{{.}}{{ end }}" alt="" class="shadow">
+	<img src="/{{ with .Get "img2" }}{{.}}{{ end }}" alt="" class="shadow">
+	<img src="/{{ with .Get "img3" }}{{.}}{{ end }}" alt="" class="shadow">
+	{{ .Inner }}
+</div>

@@ -1,6 +1,19 @@
 {{ define "main" }}
-<article>
-	PRODUCTEUR > 
+
+	
+	
+	<div class="banner container-full">		
+		{{ if .Params.banner }}
+		<img src="../{{ .Params.banner }}" class="shadow"/>
+		{{ end }}
+		{{ if .Params.banner1 }}
+		<img src="../{{ .Params.banner1 }}" class="shadow" />
+		{{ end }}
+		{{ if .Params.banner2 }}
+		<img src="../{{ .Params.banner2 }}" class="shadow" />
+		{{ end }}
+	</div>
+	
 	<h1>{{ .Title }}</h1>
 	{{ if .Params.subtitle }}
 	  <h2>{{ .Params.subtitle }}</h2>
@@ -16,5 +29,5 @@
 	{{ end }}		
   
 	  {{ .Content }}
-</article>
+
 {{ end }}

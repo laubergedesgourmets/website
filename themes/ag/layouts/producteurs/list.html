@@ -1,7 +1,6 @@
 {{ define "main" }}
 	{{ if .Content }}
 	<div>
-		LIST PRODUCTEURS
 		{{ with .Content }}<div>{{ . }}</div>{{ end }}
 	</div>
 	{{ end }}
@@ -10,6 +9,9 @@
 		{{ range .Data.Pages }}
 				<li class="item">
 					<a href="{{.Permalink}}">
+						{{ if .Params.banner }}
+						<img src="{{ .Params.banner }}" />
+						{{ end }}
 						<h2>
 							{{.Title}}
 						  </h2>
