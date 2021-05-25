@@ -16,7 +16,7 @@ type: page
 
 Menu du marché                   | Prix
 ---------------------------------|------
-Entrée, plat ou plat, dessert    | 16,50 €
+Entrée, plat ou plat, dessert    | 18,50 €
 Entrée, plat, fromage ou dessert | 25,50 €
 Entrée, plat, fromage, dessert   | 29,50 €
 

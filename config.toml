@@ -1,6 +1,6 @@
 baseURL = "https://laubergedesgourmets.zufrieden.io/"
 languageCode = "fr-fr"
-title = "L'Auberge des Groumets"
+title = "L'Auberge des Gourmets"
 theme = "ag"
 
 [markup]
@@ -27,17 +27,17 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
-  [[menu.main]]
-		identifier = "tourisme-tournus"
-		name = "Tourisme"
-		url = "/tourisme-tournus/"
-		weight = 4
-
-  [[menu.main]]
-		identifier = "producteurs"
-		name = "Producteurs"
-		url = "/producteurs/"
-		weight = 5
+#  [[menu.main]]
+#		identifier = "tourisme-tournus"
+#		name = "Tourisme"
+#		url = "/tourisme-tournus/"
+#		weight = 4
+#
+#  [[menu.main]]
+#		identifier = "producteurs"
+#		name = "Producteurs"
+#		url = "/producteurs/"
+#		weight = 5
 
   [[menu.main]]
 		identifier = "situation-contact"

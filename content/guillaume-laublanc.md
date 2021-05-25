@@ -43,7 +43,7 @@ Originaire de la région (Ratenelle), Guillaume a fait ses premières armes à l
 
 Convivialité et partage, cuisine généreuse et gourmande, circuits courts et relation avec les producteurs sont les maîtres mots de sa cuisine. Guillaume vous accueille avec tout son coeur pour une expérience bistronomique.
 
-{{% banner class="container-full" img1="images/guillaume_laublanc_plats_1.jpg" img2="images/guillaume_laublanc_plats_2.jpg" img3="images/guillaume_laublanc_plats_3.jpg" %}}
+{{% banner class="container-full" img1="/images/guillaume_laublanc_plats_1.jpg" img2="/images/guillaume_laublanc_plats_2.jpg" img3="/images/guillaume_laublanc_plats_3.jpg" %}}
 
 {{% /banner %}}
 
