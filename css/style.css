@@ -362,7 +362,7 @@ hr {
 
 /* Banner show 3 pictures */
 .banner{
-  margin: 0 1em;
+  margin: 3em 1em;
   max-height: 60vh;
   display: grid;
   grid-template-rows: 0.3fr 1.3fr 3fr 0.3fr 1fr;
