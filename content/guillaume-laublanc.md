@@ -37,7 +37,7 @@ type: page
 
 Originaire de la région (Ratenelle), Guillaume a fait ses premières armes à l'Hotel Royal à Evian-les-Bains, au Château d'Igé puis en Suisse avec des restaurants étoilés comme le Restaurant de l'Hôtel Mirador au Mont Pélerin. Il a ensuite été le chef-gérant du restaurant Nespresso à Romont (Suisse). Fort de ces grandes expériences et de différents voyages, Guillaume est revenu dans sa région natale pour reprendre l'Auberge des Gourmets. Succédant au chef Daniel Rogie. 
 
-
+![Portrait de Guillaume Laublanc](/img/guillaume_laublanc_portrait.jpg)
 
 ### Une cuisine bistro-gastronomique, gourmande et généreuse
 
