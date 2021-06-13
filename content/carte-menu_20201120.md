@@ -8,7 +8,6 @@ type: page
 # Carte et Menu
 
 
-
 ## Menu du Marché
 
 ### Selon l’inspiration du chef et les produits de saisons

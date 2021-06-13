@@ -424,3 +424,28 @@ hr {
   margin: 3em 0;
   padding: 3em;
 }
+
+/* PRINT STYLES */
+@media print {
+  @page {
+    margin: 3cm 2cm;
+  }
+  header, footer, hr, .box {
+    display: none;
+  }
+  /* h2{
+    break-before: always;
+  } */
+  h2{
+    margin-top: 3em;
+  }
+  table {
+    break-inside: avoid;
+  }
+  body{
+    font-size: 9pt;
+  }
+  .container{
+    display: block;
+  }
+}
