@@ -6,8 +6,6 @@ draft: false
 {{% box class="" img="img/assiette_pigeonneau_cut.jpg" %}}
 # L'Auberge des Gourmets
 
-## En vacances, réouverture le vendredi 15 octobre 2021
-
 À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef Guillaume Laublanc vous convie à son restaurant.
 
 <hr>
