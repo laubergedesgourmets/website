@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
 date: 2020-11-22T12:34:44+01:00
-draft: false
+draft: true
 type: page
 ---
 
@@ -65,11 +65,10 @@ Entrée, Plat, Fromage et Dessert | 45,50 €
 Entrées au choix | Prix
 ---------------------------------|------
 Retour du marché | 12 €
-Gros oeuf bio de Tournus façon meurette, pleurotes bio, mousse au lard fumé | 12 €
-Mijoté de légumes racines à la truffe du Clunisois | 12 €
-Risotto d’épeautre aux grenouilles, petits légumes de saison, émulsion persillade | 12 €
-Tourte feuilletée aux escargots d’Etrigny, jus tranché paleron et huile de noisettes, mesclun | 12 €
-Médaillon de foie gras des Landes cuit au naturel, chutney de coings _(Supplément menu 5 €)_ | 17 €
+Tartelette de légumes de saison, crème à la truffe de Bourgogne, oeuf bio poché | 12 €
+Filet de truite du Jura mariné au citron vert, pommes de terre fumées, Saladine de fenouils | 12 €
+Escargots petits gris de chez Sylvain à Etrigny et mousseline de volaille en ravioles, crémeux d’orties | 12 €
+Médaillon de foie gras des Landes cuit au naturel, chutney d’abricots _(Supplément menu 5 €)_ | 17 €
 
 _(Prix à la carte)_
 
@@ -77,11 +76,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Pavé de sandre de nos rivières au beurre blanc, pommes et safran | 22 €
-Pigeon de Baudrières en deux façons, jus réduit au cacao amer, tartine d’abats | 22 €
-Pièce du boucher | 22 €
-Ballotine de poulette de Bresse de chez Johan Morand, morilles et vin Jaune | 22 €
-Chasse du moment | 25 €
+Pigeon de Baudrières en deux façons, jus réduit aux fruits rouges, tartine d’abats _(Supplément menu 5€)_ | 22 €
+Pièce du boucher du moment | 22 €
+Ballotine de poulette de Bresse de chez Johan Morand aux pleurotes bio sauce foie gras | 22 €
+Criée du jour | 22 €
 
 _servis avec la garniture du marché (Prix à la carte)_
 
@@ -92,10 +90,9 @@ Dessert/Fromage au choix | Prix
 Fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
 Assiette de 3 fromages affinés du moment  | 9 €
 Inspiration du moment | 9 €
-Déclinaison de glaces et sorbets maison | 9 €
-Pomme d’Uchizy comme une Tatin, sorbet calvados | 9 €
-Tout Chocolat | 9 €
-Mont Blanc poires, châtaignes, sorbet cassis | 9 €
+Assortiment de glaces et sorbets maison, tuiles aux amandes comme à Louhans | 9 €
+Chocophyle | 9 €
+Pavlova aux fruits rouges, crème bio de Boyer, sorbet fraises basilic | 9 €
 Café ou thé des Gourmets | 9 €
 
 ## Un petit tour chez nos producteurs
@@ -116,7 +113,6 @@ Origines des viandes, poissons et oeufs …et autres gourmandises
 * Lait bio, crème bio, beurre bio : La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
 * Poissons de nos rivières : Sébastien 	Kornprobst, Seille et Saône
 * Légumes : Famille Péri, Simandre, 14 km
-* Pommes, poires : le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 
 La liste des plats contenant des allergènes est disponible auprès de l’équipe.
 
