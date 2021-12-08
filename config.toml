@@ -27,6 +27,13 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
+  [[menu.main]]
+    identifier = "carte-menu-fete_2021"
+    name = "Carte des fêtes 2021"
+    url = "/carte-menu-fete_2021/"
+    weight = 3
+
+
 #  [[menu.main]]
 #		identifier = "tourisme-tournus"
 #		name = "Tourisme"
