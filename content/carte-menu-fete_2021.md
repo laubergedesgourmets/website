@@ -6,11 +6,7 @@ type: page
 ---
 
 
-
-
 ## Menus des Fêtes de fin d’année 2021
-
-### Selon l’inspiration du chef et les produits de saisons
 
 
 Menu du marché                   | Prix
