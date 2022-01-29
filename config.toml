@@ -28,9 +28,9 @@ theme = "ag"
 		weight = 3
 
   [[menu.main]]
-    identifier = "carte-menu-fete_2021"
-    name = "Carte des fêtes 2021"
-    url = "/carte-menu-fete_2021/"
+    identifier = "carte-menu-saint-valentin_2022"
+    name = "Saint-Valentin 2022"
+    url = "/carte-menu-saint-valentin_2022/"
     weight = 3
 
 
