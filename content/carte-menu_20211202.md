@@ -15,16 +15,11 @@ type: page
 Mon équipe et moi-même sommes heureux de vous accueillir dans le magnifique village du Villars pour un moment hors du temps.
 
 Je souhaite, au travers de ma cuisine, vous faire découvrir tous nos beaux produits régionaux.
-
 Le local, saisonnier et durable, voici les valeurs que je veux partager avec vous.
-
 Toute l’équipe se tient à votre entière disposition pour toutes vos demandes.
-
 
 <hr/>
 Nous vous souhaitons un agréable moment en notre compagnie.
-
-[*— Guillaume*](/guillaume-laublanc/)
 
 {{% /box %}}
 
@@ -48,13 +43,13 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 <hr/>
 
-## Menu enfant à 14 €
+## Menu enfant à 12 €
 
-### Boisson au choix
+### Sirop à l’eau et apéro 
 
-### Suggestion du chef (poisson ou viande) accompagnée de la garniture du moment 
+### Suggestion du chef (poisson ou viande) garniture du moment 
 
-### Moelleux au chocolat, glace vanille ou deux boules de glace maison
+### 2 boules de glace maison au choix
 
 ---
 
@@ -69,12 +64,12 @@ Entrée, Plat, Fromage et Dessert | 45,50 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Entrée du moment | 12 €
+Retour du marché | 12 €
 Gros oeuf bio de Tournus façon meurette, pleurotes bio, mousse au lard fumé | 12 €
-Mijoté de légumes racines, truffe d’été, copeaux de jambon cru | 12 €
+Mijoté de légumes racines à la truffe du Clunisois | 12 €
 Risotto d’épeautre aux grenouilles, petits légumes de saison, émulsion persillade | 12 €
-Soupe feuilletée aux escargots d’Etrigny, morilles, crème d’ail et vin jaune | 12 €
-Médaillon de foie gras des Landes cuit au naturel, chutney de fruits secs *(Supplément menu 5 €)* | 17 €
+Tourte feuilletée aux escargots d’Etrigny, jus tranché paleron et huile de noisettes, mesclun | 12 €
+Médaillon de foie gras des Landes cuit au naturel, chutney de coings _(Supplément menu 5 €)_ | 17 €
 
 _(Prix à la carte)_
 
@@ -82,11 +77,11 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Criée du moment | 22 €
+Pavé de sandre de nos rivières au beurre blanc, pommes et safran | 22 €
 Pigeon de Baudrières en deux façons, jus réduit au cacao amer, tartine d’abats | 22 €
 Pièce du boucher | 22 €
-Médaillon de poulette de Bresse farcie au foie gras, bouillon truffé | 22 €
-Filet de canette rôtie au miel de Boyer et poivre Timut, sauce à l’orange bio | 25 €
+Ballotine de poulette de Bresse de chez Johan Morand, morilles et vin Jaune | 22 €
+Chasse du moment | 25 €
 
 _servis avec la garniture du marché (Prix à la carte)_
 
@@ -95,41 +90,37 @@ _servis avec la garniture du marché (Prix à la carte)_
 Dessert/Fromage au choix | Prix
 ---------------------------------|------
 Fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
-Assiette de 3 fromages affinés du moment, mesclun et noisettes | 9 €
-Soufflé chaud au Grand-Marnier, sorbet orange bio | 9 €
-Citron bio, praliné noisette, biscuit quatre-quart, sorbet citron  | 9 €
-Pomme d’Uchizy comme une Tatin, sorbet pommes calvados | 9 €
-Brownies aux noix de pécan, crémeux chocolat lait, sorbet banane | 9 €
-Déclinaison de glaces et sorbets maison  | 9 €
+Assiette de 3 fromages affinés du moment  | 9 €
+Inspiration du moment | 9 €
+Déclinaison de glaces et sorbets maison | 9 €
+Pomme d’Uchizy comme une Tatin, sorbet calvados | 9 €
+Tout Chocolat | 9 €
+Mont Blanc poires, châtaignes, sorbet cassis | 9 €
 Café ou thé des Gourmets | 9 €
-
-_N’hésitez pas à accompagner votre dessert du café du moment_
 
 ## Un petit tour chez nos producteurs
 
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
-- **Oeufs bio :** La Poule verte, Famille Meulien, Tournus, 7 km
-- **Champignons bio :** Culles-les-Roches, 35 km
-- **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
-- **Pigeons :** Pierre-Eudes Quintart, Baudrières, 21 km
-- **Boeuf :** France
-- **Truite :** Jura, France
-- **Veau bio et agneau bio :** Ferme du Mont Rouge,Famille Seckler,  Blanot, 24 km
-- **Poulet de Bresse:** Johan Morand, , Bantanges , 26 km
-- **Porc :** France
-- **Bière :** Brasserie Two Dudes, Tournus, 4 km
-- **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
-- **Poissons de nos rivières :** Sébastien Kornprobst, Seille et Saône
-- **Légumes :** Famille Péri, Simandre, 14 km
-- **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
-- **Pain :** Boulangerie L’Abricotine, Famille Cordier, Tournus 5km
-- **Miel :** Miellerie de la Natouze, Gilbert Bontemps, Boyer, 10 km
+* Oeufs bio : La Poule verte, Famille Meulien, Tournus, 7 km
+* Champignons bio : Wahid Ramdam, Culles-les-Roches, 35 km
+* Escargots : L’Escarg’Aujoux, Sylvain, Etrigny, 18 km
+* Pigeons : Pierre-Eudes Quintart, Baudrières, 21 km
+* Boeuf : Bourgogne
+* Truffe : Le Cos Piguet, Olivier Devevres, Cortevaix, 32 km 
+* Truite : Jura, France
+* Veau bio et agneau bio : Ferme du Mont Rouge,Famille Seckler,  Blanot, 24 km
+* Poulet de Bresse: Johan Morand, , Bantanges , 26 km
+* Porc : France
+* Brasserie Two Dudes, Tournus, 4 km
+* Lait bio, crème bio, beurre bio : La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
+* Poissons de nos rivières : Sébastien 	Kornprobst, Seille et Saône
+* Légumes : Famille Péri, Simandre, 14 km
+* Pommes, poires : le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 
 La liste des plats contenant des allergènes est disponible auprès de l’équipe.
 
-Nous sommes à votre écoute pour toute question sur la composition des plats.
-
+Nous sommes à votre écoute pour toutes questions sur la composition des plats.
 
 ## Boissons
 

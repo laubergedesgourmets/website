@@ -51,4 +51,4 @@ La bistronomie formé de "bistrot" et "gastronomie" désigne une cuisine élabor
 
 
 ---
-Guillaume est sensible au allergies et régimes de chacun. Il est à votre écoute pour toutes les demandes particulières.
+Sensible aux allergies et régimes de chacun, Guillaume est à votre écoute pour toutes demandes particulières.

@@ -5,9 +5,11 @@ draft: false
 ---
 # Le Villars - situation
 
-Petit village tranquil niché au bord de la Saône, Le Villars est situé à 4km de Tournus. Le restaurant est accessible à vélo, à pied ou en voiture, il est facile de se garer devant à l'ombre des platanes. Une balade idéale depuis Tournus le long de la rivière ou directement en amarrant avec votre péniche au ponton.
+Petit village paisible niché au bord de la Saône, Le Villars est situé à 4km de Tournus.Le restaurant est accessible à vélo ou à pied par la voie bleue. Une balade idéale depuis Tournus le long de la rivière.<br/>
+Il est facile de se garer à l’ombre des platanes.
 
-### [9 Place de l'Église, 71700 Le Villars, France](https://g.page/laubergedesgourmets?we)
+
+### [9 Rue de l'Église, 71700 Le Villars, France](https://g.page/laubergedesgourmets?we)
 ### Coordonnées GPS : 46.5302764, 4.9283297
 
 {{% banner class="container-full" 
@@ -22,4 +24,5 @@ img2="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3a58c5(4.
 
 # Contact
 
-Pour les réservations et demandes de renseignement, appelez-nous (entre 9h et 14h, 18h et 20h). Vous pouvez aussi écrire à guillaumelaublanc@icloud.com
+Nous sommes disponibles au [03 85 32 58 80](tel:0385325880) tous les jours sauf le mardi et le mercredi et dimanche soir pour répondre à vos appels téléphoniques.
+Vous pouvez également nous écrire à l’adresse suivante : [laubergedesgourmets@icloud.com](mailtto:laubergedesgourmets@icloud.com)

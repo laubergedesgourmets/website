@@ -6,25 +6,26 @@ draft: false
 {{% box class="" img="img/assiette_pigeonneau_cut.jpg" %}}
 # L'Auberge des Gourmets
 
-À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef Guillaume Laublanc vous convie à son restaurant.
+À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef [Guillaume Laublanc](/guillaume-laublanc) vous convie à son restaurant.
 
 <hr>
 
-[Tél. 03 85 32 58 80](tel:0033385325880)
+Réservation au [03 85 32 58 80](tel:0033385325880)
 
-Ouvert midi et soir les jeudis, vendredis, samedis et lundis<br/>
-Dimanche ouvert le midi
+**Restaurant**<br/>
+Ouvert midi et soir le lundi, jeudi, vendredi et samedi<br/>
+Le dimanche ouvert uniquement le midi.
 
 Terrasse et salle climatisée.
 {{% /box %}}
 
-En famille ou entre amis, venez appréciez dans ce restaurant une cuisine Bourguignonne au goût du jour élaborée à partir de produits frais et de saison, et des plats authentiques teintés de tradition et de créativité, toujours dans le même respect du produit. 
+En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.
 
-Natif de la région, Guillaume propose une cuisine axée sur les produits locaux et de saison. Tout est préparé maison pour une expérience bistronomique. A l’ombre des platanes, sur la petite place du village, cette auberge à la façade aux accents provençaux vous offrira un dépaysement total. 
+Natif de la région, Guillaume propose une [cuisine bistronomique axée sur les produits locaux](/carte-menu/).
 
-
-Ses spécialités travaillées avec passion : Le pigeon de Baudrières, le poulet de Bresse, l'oeuf BIO, les déclinaisons de légumes de saison, ainsi que sa sélection de vins de toutes les régions, découvrez des recettes inspirées des saveurs naturelles de notre terroir.
+Ses spécialités travaillées avec passion : le pigeon de Baudrières, le poulet de Bresse, l’oeuf bio, les déclinaisons de légumes de saison, ainsi que qu’une sélection de vins de notre région.
+Découvrez des recettes inspirées des saveurs naturelles de notre terroir.
 
 ## Quoi de neuf ?
 
-L'actualité de L'Auberge des Gourmets sur notre compte Instagram [@laubergedesgourmets](https://www.instagram.com/laubergedesgourmets). 
+Suivez l’actualité de L’Auberge des Gourmets sur nos réseaux sociaux [@laubergedesgourmets](https://www.instagram.com/laubergedesgourmets). 
