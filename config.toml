@@ -27,11 +27,11 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
- # [[menu.main]]
- #   identifier = "carte-menu-saint-valentin_2022"
- #   name = "Saint-Valentin 2022"
- #   url = "/carte-menu-saint-valentin_2022/"
- #   weight = 3
+  [[menu.main]]
+    identifier = "carte-menu-paques_2022"
+    name = "Menu de Pâques"
+    url = "/carte-menu-paques_2022/"
+    weight = 3
 
 
 #  [[menu.main]]
