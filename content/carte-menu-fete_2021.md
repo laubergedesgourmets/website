@@ -1,7 +1,7 @@
 ---
 title: Menus des Fêtes de fin d’année 2021
 date: 2020-11-22T12:34:44+01:00
-draft: false
+draft: true
 type: page
 ---
 
