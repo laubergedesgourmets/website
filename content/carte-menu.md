@@ -138,7 +138,7 @@ Apéritifs sans alcool |  | Prix
 Coca-cola et coca zéro | 33cl |5,00 €
 Orangina |	25cl |5,00 €
 Ice-tea | 25cl |5,00 €
-Jus de fruits granini |20cl |5,00€
+Jus de fruits granini |20cl |5,00 €
 Perrier | 33cl |5,00 €
 Sirop à l’eau minérale | 25cl |2,00 €
 Badoit, Evian |	50cl |3,50 €		
