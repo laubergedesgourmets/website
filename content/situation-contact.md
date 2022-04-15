@@ -5,8 +5,8 @@ draft: false
 ---
 # Le Villars - situation
 
-Petit village paisible niché au bord de la Saône, Le Villars est situé à 4km de Tournus.Le restaurant est accessible à vélo ou à pied par la voie bleue. Une balade idéale depuis Tournus le long de la rivière.<br/>
-Il est facile de se garer à l’ombre des platanes.
+<p><a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="/img/label_michelin.png" align="right" width="20%"/></a>Petit village paisible niché au bord de la Saône, Le Villars est situé à 4km de Tournus.Le restaurant est accessible à vélo ou à pied par la voie bleue. Une balade idéale depuis Tournus le long de la rivière.<br/>
+Il est facile de se garer à l’ombre des platanes.</p>
 
 
 ### [9 Rue de l'Église, 71700 Le Villars, France](https://g.page/laubergedesgourmets?we)
