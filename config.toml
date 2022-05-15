@@ -28,9 +28,9 @@ theme = "ag"
 		weight = 3
 
   [[menu.main]]
-    identifier = "carte-menu-paques_2022"
-    name = "Menu de Pâques"
-    url = "/carte-menu-paques_2022/"
+    identifier = "carte-menu-fete-des-meres_2022"
+    name = "Menu Fête des Mères 2022"
+    url = "/carte-menu-fete-des-meres_2022/"
     weight = 3
 
 
