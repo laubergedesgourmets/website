@@ -42,7 +42,7 @@ Entrée, plat ou plat, dessert    | 18,50 €
 Entrée, plat, fromage ou dessert | 25,50 €
 Entrée, plat, fromage, dessert   | 29,50 €
 
-**Entrée 8 € / Plat 12,50 € / Fromage 8 € / Dessert 8 €**
+**Entrée 8 € / Plat 12,50 € / Dessert 8 €**
 
 _Servi uniquement les midis de semaine hors jours fériés_
 
@@ -52,9 +52,9 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 ### Boisson au choix
 
-### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment 
+### Suggestion du chef (poisson ou viande) accompagnée de la garniture du moment 
 
-### Moelleux au chocolat, glace vanille ou deux boules de glace ou sorbet maison
+### Moelleux au chocolat, glace vanille ou deux boules de glace maison
 
 ---
 
@@ -70,11 +70,11 @@ Entrée, Plat, Fromage et Dessert | 45,50 €
 Entrées au choix | Prix
 ---------------------------------|------
 Entrée du moment | 12 €
-L’œuf bio de Tournus crousti-coulant, crème d’artichauts, émulsion au foie gras | 12 €
-La truite du Jura aux graines de fenouils, bavaroise de choux fleur, pointe de caviar français | 12 €
-Mijoté de légumes printaniers, truffe d’été, copeaux de jambon cru | 12 €
-Ravioles aux escargots d’Ouroux-sur-Saône, pleurotes Bio et crème d’orties | 12 €
-Médaillon de foie gras des Landes cuit au naturel, chutney rhubarbe et gingembre *(Supplément menu 5 €)* | 17 €
+Gros oeuf bio de Tournus façon meurette, pleurotes bio, mousse au lard fumé | 12 €
+Mijoté de légumes racines, truffe d’été, copeaux de jambon cru | 12 €
+Risotto d’épeautre aux grenouilles, petits légumes de saison, émulsion persillade | 12 €
+Soupe feuilletée aux escargots d’Etrigny, morilles, crème d’ail et vin jaune | 12 €
+Médaillon de foie gras des Landes cuit au naturel, chutney de fruits secs *(Supplément menu 5 €)* | 17 €
 
 _(Prix à la carte)_
 
@@ -83,10 +83,10 @@ _(Prix à la carte)_
 Plats au choix | Prix
 ---------------------------------|------
 Criée du moment | 22 €
-Pigeon de Baudrières en deux façons, jus réduit aux fruits rouges, tartine d’abats | 22 €
-Médaillon de poulette de Bresse farcie au foie gras, crème de vin jaune | 22 €
-Filet de canette des Dombes rôtie, sauce aux griottes et vinaigre balsamique | 22 €
+Pigeon de Baudrières en deux façons, jus réduit au cacao amer, tartine d’abats | 22 €
 Pièce du boucher | 22 €
+Médaillon de poulette de Bresse farcie au foie gras, bouillon truffé | 22 €
+Filet de canette rôtie au miel de Boyer et poivre Timut, sauce à l’orange bio | 25 €
 
 _servis avec la garniture du marché (Prix à la carte)_
 
@@ -94,12 +94,14 @@ _servis avec la garniture du marché (Prix à la carte)_
 
 Dessert/Fromage au choix | Prix
 ---------------------------------|------
-Le fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
-L’assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 9 €
-Soufflé glacé au Grand-Marnier, coulis mangue et tuile à l’orange | 9 €
-La fraise française - Biscuit à l’huile d’olive et au fruit de la passion, confiture de fraise et fleur d’oranger, Crémeux chocolat blanc basilic, gaufrette mâconnaise et sorbet fraise  | 9 €
-Brownies chocolat noir aux noix de pécan, crémeux chocolat lait, banane juste caramélisé et sorbet banane | 9 €
-L’assiette de glaces et sorbets (5 Parfums au choix) Glaces : Vanille de Madagascar, Lait d’amande, Caramel beurre salé, Pistache - Sorbets : Fraise, Citron, Banane, Chocolat  | 9 €
+Fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
+Assiette de 3 fromages affinés du moment, mesclun et noisettes | 9 €
+Soufflé chaud au Grand-Marnier, sorbet orange bio | 9 €
+Citron bio, praliné noisette, biscuit quatre-quart, sorbet citron  | 9 €
+Pomme d’Uchizy comme une Tatin, sorbet pommes calvados | 9 €
+Brownies aux noix de pécan, crémeux chocolat lait, sorbet banane | 9 €
+Déclinaison de glaces et sorbets maison  | 9 €
+Café ou thé des Gourmets | 9 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -108,7 +110,7 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
 - **Oeufs bio :** La Poule verte, Famille Meulien, Tournus, 7 km
-- **Champignons bio :**  Corrine Baron, Culles-les-Roches, 35 km
+- **Champignons bio :** Culles-les-Roches, 35 km
 - **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
 - **Pigeons :** Pierre-Eudes Quintart, Baudrières, 21 km
 - **Boeuf :** France
