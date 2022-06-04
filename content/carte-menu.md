@@ -158,20 +158,6 @@ Sélection de Gin | 	  4cl | 	 8 à 10 €
 Sélection de Rhum |	 4cl |       8 à 10 €
 Sélection de Whisky | 	  4cl |       8 à 10 €
 
-Cocktail Sans alcool (25cl) | Prix
----------------------------------|------
-**Mijoto sans alcool** | 6,00 €
-**Thé froid maison**  | 5,00 €
-**Fraicheur d’été** <br/> (Jus de fraise, litchi, eau pétillante) | 6,00 €
-
-
-Cocktail avec alcool (25cl) | Prix
----------------------------------|------
-**Planteur** <br/> (Rhum blanc arrangés maison, jus de fruits, citron vert)| 10,00 €
-**Americano** <br/> (Vermouth rouge, Campari, eau gazeuse) | 10,00 €
-**Mojito** <br/> (Rhum blanc, menthe du jardin, citron vert, eau gazeuse) | 10,00 €
-**Spritz** <br/> (Vermouth de la maison Bigalet, Procesco, eau gazeuse) | 10,00 €
-**Sangria maison** <br/> (Vin rouge, fruits du moment, eau gazeuse) | 8,00 €
 
 Bières Pression | | Prix
 ------------------|-------|-----
