@@ -10,7 +10,7 @@ draft: false
 
 <hr>
 
-Réservation au [03 85 32 58 80](tel:0033385325880)
+Réservation au [03 85 32 58 80](tel:0033385325880) ou [reservation@laubergedesgourmets.com](mailto:reservation@laubergedesgourmets.com)
 
 **Restaurant**<br/>
 Ouvert midi et soir le lundi, jeudi, vendredi et samedi<br/>
