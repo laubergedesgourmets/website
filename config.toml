@@ -34,17 +34,17 @@ theme = "ag"
 #    weight = 3
 
 
-#  [[menu.main]]
-#		identifier = "tourisme-tournus"
-#		name = "Tourisme"
-#		url = "/tourisme-tournus/"
-#		weight = 4
-#
-#  [[menu.main]]
-#		identifier = "producteurs"
-#		name = "Producteurs"
-#		url = "/producteurs/"
-#		weight = 5
+  # [[menu.main]]
+	# 	identifier = "tourisme-tournus"
+	# 	name = "Tourisme"
+	# 	url = "/tourisme-tournus/"
+	# 	weight = 4
+
+  [[menu.main]]
+		identifier = "producteurs"
+		name = "Producteurs"
+		url = "/producteurs/"
+		weight = 5
 
   [[menu.main]]
 		identifier = "situation-contact"

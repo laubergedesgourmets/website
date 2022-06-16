@@ -5,7 +5,7 @@ cascade:
   banner: images/la-poule-verte.jpg
   banner1: images/la-poule-verte_2.jpg
   banner2: images/la-poule-verte_1.jpg
-draft: true
+# draft: true
 ---
 # Les producteurs de la région
 
