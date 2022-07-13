@@ -52,7 +52,7 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 ### Boisson au choix
 
-### Suggestion du chef (poisson ou viande du moment) accompagnée de légumes de saison
+### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment 
 
 ### Moelleux au chocolat, glace vanille ou deux boules de glace ou sorbet maison
 
@@ -70,10 +70,11 @@ Entrée, Plat, Fromage et Dessert | 45,50 €
 Entrées au choix | Prix
 ---------------------------------|------
 Entrée du moment | 12 €
-L’œuf bio de Tournus crousti-coulant, crème d’artichauts, émulsion au pécorino | 12 €
-Les ravioles aux escargots d’Ouroux-sur-Saône, pleurotes Bio et crème d’orties | 12 €
-Le mille-feuille de légumes estivale, crème à la truffe d’été, copeaux de jambon cru | 12 €
-La truite du Jura marinée aux graines de fenouils, bavaroise de choux fleur, pointe de caviar français | 12 €
+L’œuf bio de Tournus crousti-coulant, crème d’artichauts, émulsion au foie gras | 12 €
+La truite du Jura aux graines de fenouils, bavaroise de choux fleur, pointe de caviar français | 12 €
+Mijoté de légumes printaniers, truffe d’été, copeaux de jambon cru | 12 €
+Ravioles aux escargots d’Ouroux-sur-Saône, pleurotes Bio et crème d’orties | 12 €
+Médaillon de foie gras des Landes cuit au naturel, chutney rhubarbe et gingembre *(Supplément menu 5 €)* | 17 €
 
 _(Prix à la carte)_
 
@@ -81,23 +82,24 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-La criée du moment | 25 €
-La pièce du boucher | 25 €
-Le pigeon de Baudrières en deux façons, tartine d’abats, jus aux fruits rouges | 25 €
-Le médaillon de poulette de Bresse farcie aux écrevisses, crème à l’estragon | 25 €
+Criée du moment | 22 €
+Pigeon de Baudrières en deux façons, jus réduit aux fruits rouges, tartine d’abats | 22 €
+Médaillon de poulette de Bresse farcie au foie gras, crème de vin jaune | 22 €
+Filet de canette des Dombes rôtie, sauce aux griottes et vinaigre balsamique | 22 €
+Pièce du boucher | 22 €
 
-_servis avec la garniture de saison (Prix à la carte)_
+_servis avec la garniture du marché (Prix à la carte)_
 
 ### Pour terminer
 
 Dessert/Fromage au choix | Prix
 ---------------------------------|------
 Le fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
-L’assiette de fromages affinés, mesclun à l’huile de noisettes | 9 €
-Soufflé glacé au Grand-Marnier, coulis mangue, tuile à l’orange | 9 €
-L’abricot français - Sablé streusel amandes et pistaches, crémeux abricot infusé au romarin et fleur de sel, mousse lait d’amande et sorbet abricot  | 9 €
-La tartellette chocolat - Sablé Cacao, syphon chocolat lait, framboises fraiche, coulis de framboise à la menthe, sorbet framboise, tuile dentelle au chocolat | 9 €
-L’assiette de glaces et sorbets (5 Parfums au choix) Glaces : Vanille de Madagascar, Lait d’amande, Caramel beurre salé, Pistache Sorbets : Fraise, Citron, Banane, Chocolat  | 9 €
+L’assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 9 €
+Soufflé glacé au Grand-Marnier, coulis mangue et tuile à l’orange | 9 €
+La fraise française - Biscuit à l’huile d’olive et au fruit de la passion, confiture de fraise et fleur d’oranger, Crémeux chocolat blanc basilic, gaufrette mâconnaise et sorbet fraise  | 9 €
+Brownies chocolat noir aux noix de pécan, crémeux chocolat lait, banane juste caramélisé et sorbet banane | 9 €
+L’assiette de glaces et sorbets (5 Parfums au choix) Glaces : Vanille de Madagascar, Lait d’amande, Caramel beurre salé, Pistache - Sorbets : Fraise, Citron, Banane, Chocolat  | 9 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
