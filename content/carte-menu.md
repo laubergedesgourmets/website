@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2020-11-22T12:34:44+01:00
+date: 2022-10-15T12:34:44+01:00
 draft: false
 type: page
 ---
@@ -69,11 +69,10 @@ Entrée, Plat, Fromage et Dessert | 45,50 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Entrée du moment | 12 €
-L’œuf bio de Tournus crousti-coulant, crème d’artichauts, émulsion au pécorino | 12 €
-Les ravioles aux escargots d’Ouroux-sur-Saône, pleurotes Bio et crème d’orties | 12 €
-Le mille-feuille de légumes estivale, crème à la truffe d’été, copeaux de jambon cru | 12 €
-La truite du Jura marinée aux graines de fenouils, bavaroise de choux fleur, pointe de caviar français | 12 €
+Entrée du moment | 15 €
+L’œuf bio mollet façon meurette, émulsion au lard fumé, pleurotes de Culles les Roches | 15 €
+Truite du Jura marinée à la betterave, gin et agrumes, sorbet betteraves | 15 €
+L’escargots d’Ouroux sur Saône et ail noir en cromesquis, mousse de panais | 15 €
 
 _(Prix à la carte)_
 
@@ -81,12 +80,12 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-La criée du moment | 25 €
-La pièce du boucher | 25 €
-Le pigeon de Baudrières en deux façons, tartine d’abats, jus aux fruits rouges | 25 €
-Le médaillon de poulette de Bresse farcie aux écrevisses, crème à l’estragon | 25 €
+Le demi-homard canadien rôti dans sa carapace, pomme d’Uchizy et safran, émulsion au cidre | 25 €
+Le 1/2 pigeon de Baudrières rôti sur coffre, cuisse confite sauce salmis | 25 €
+La chasse du moment | 25 €
+La poulette de Bresse de chez Morand farcie aux morilles et crème de vin jaune | 25 €
 
-_servis avec la garniture de saison (Prix à la carte)_
+_servis avec la garniture du marché (Prix à la carte)_
 
 ### Pour terminer
 
@@ -94,10 +93,10 @@ Dessert/Fromage au choix | Prix
 ---------------------------------|------
 Le fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
 L’assiette de fromages affinés, mesclun à l’huile de noisettes | 9 €
-Soufflé glacé au Grand-Marnier, coulis mangue, tuile à l’orange | 9 €
-L’abricot français - Sablé streusel amandes et pistaches, crémeux abricot infusé au romarin et fleur de sel, mousse lait d’amande et sorbet abricot  | 9 €
-La tartellette chocolat - Sablé Cacao, syphon chocolat lait, framboises fraiche, coulis de framboise à la menthe, sorbet framboise, tuile dentelle au chocolat | 9 €
-L’assiette de glaces et sorbets (5 Parfums au choix) Glaces : Vanille de Madagascar, Lait d’amande, Caramel beurre salé, Pistache Sorbets : Fraise, Citron, Banane, Chocolat  | 9 €
+Soufflé chaud au Grand-Marnier, sorbet orange bio, tuile dentelle | 10 €
+La verrine Irish - Baba chocolat, crème de Bailey’s, coulis café, chantilly  | 10 €
+Le vacherin poire d’Uchizy et châtaigne – Meringue, sorbet poire, glace châtaigne, chantilly vanillé et tuile châtaigne | 10 €
+Le café gourmand — Les desserts à la carte version mini accompagné d’un moelleux pistache griotte et une boisson chaude | 10 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
