@@ -38,21 +38,21 @@ Nous vous souhaitons un agréable moment en notre compagnie.
 
 Menu du marché                   | Prix
 ---------------------------------|------
-Entrée, plat ou plat, dessert    | 19,50 €
-Entrée, plat, fromage ou dessert | 26,50 €
-Entrée, plat, fromage, dessert   | 30,50 €
+Entrée, plat ou plat, dessert    | 18,50 €
+Entrée, plat, fromage ou dessert | 25,50 €
+Entrée, plat, fromage, dessert   | 29,50 €
 
-**Entrée 9 € / Plat 15,50 € / Fromage 8 € / Dessert 8 €**
+**Entrée 8 € / Plat 12,50 € / Fromage 8 € / Dessert 8 €**
 
 _Servi uniquement les midis de semaine hors jours fériés_
 
 <hr/>
 
-## Menu enfant à 15 €
+## Menu enfant à 14 €
 
 ### Boisson au choix
 
-### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment
+### Suggestion du chef (poisson ou viande du moment) accompagnée de légumes de saison
 
 ### Moelleux au chocolat, glace vanille ou deux boules de glace ou sorbet maison
 
@@ -62,17 +62,17 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 Menu à la carte | Prix
 ---------------------------------|------
-Entrée, Plat, Dessert	         | 39,50 €
-Entrée, Plat, Fromage et Dessert | 46,50 €	
+Entrée, Plat, Dessert	         | 38,50 €
+Entrée, Plat, Fromage et Dessert | 45,50 €	
 
 ### Pour débuter
 
 Entrées au choix | Prix
 ---------------------------------|------
-Œuf bio mollet façon meurette, émulsion au lard fumé, pleurotes de Culles les Roches | 18 €
-Saumon d’Ecosse en deux façon, mariné à l’aneth et en rillettes, sorbet pomme granny-smith | 18 €
-Escargots d’Ouroux sur Saône façon cromesquis à l’ail des ours | 18 €
-Entrée du moment | 18 €
+Entrée du moment | 15 €
+L’œuf bio mollet façon meurette, émulsion au lard fumé, pleurotes de Culles les Roches | 15 €
+Truite du Jura marinée à la betterave, gin et agrumes, sorbet betteraves | 15 €
+L’escargots d’Ouroux sur Saône et ail noir en cromesquis, mousse de panais | 15 €
 
 _(Prix à la carte)_
 
@@ -80,29 +80,23 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Pavé d’omble chevalier d’Isère cuit côté peau, jus de coquillages, poireaux grillés et citron confit | 29 €
-1/2 pigeon de Baudrières et foie gras façon pithiviers, jus réduit au porto | 29 €
-Pavé de bœuf charolais grillé, os à moelle, jus réduit au poivre de cassis | 29 €
-Poulette de Bresse de chez Morand farcie aux morilles et crème de vin jaune | 29 €
+Le demi-homard canadien rôti dans sa carapace, pomme d’Uchizy et safran, émulsion au cidre | 25 €
+Le 1/2 pigeon de Baudrières rôti sur coffre, cuisse confite sauce salmis | 25 €
+La chasse du moment | 25 €
+La poulette de Bresse de chez Morand farcie aux morilles et crème de vin jaune | 25 €
 
 _servis avec la garniture du marché (Prix à la carte)_
 
-### Les fromages
-
-Fromage au choix | Prix
----------------------------------|------
-Fromage blanc bio de la ferme des Muses sucré ou salé | 7 €
-Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 €
-
-
 ### Pour terminer
 
-Dessert au choix | Prix
+Dessert/Fromage au choix | Prix
 ---------------------------------|------
-Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
-Crème brulée à la vanille, sablé breton, sorbet pommes granny smith | 12 €
-Duo chocolat noir 72% et café — Le chocolat en crumble et sorbet, le café en mousse légère | 12 €
-Le café gourmand — Les desserts à la carte version mini accompagné et une boisson chaude | 12 €
+Le fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
+L’assiette de fromages affinés, mesclun à l’huile de noisettes | 9 €
+Soufflé chaud au Grand-Marnier, sorbet orange bio, tuile dentelle | 10 €
+La verrine Irish - Baba chocolat, crème de Bailey’s, coulis café, chantilly  | 10 €
+Le vacherin poire d’Uchizy et châtaigne – Meringue, sorbet poire, glace châtaigne, chantilly vanillé et tuile châtaigne | 10 €
+Le café gourmand — Les desserts à la carte version mini accompagné d’un moelleux pistache griotte et une boisson chaude | 10 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -121,7 +115,7 @@ Origines des viandes, poissons et oeufs …et autres gourmandises
 - **Porc :** France
 - **Bière :** Brasserie Two Dudes, Tournus, 4 km
 - **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
-- **Poissons de nos rivières :** Perrin, Seille et Saône
+- **Poissons de nos rivières :** Sébastien Kornprobst, Seille et Saône
 - **Légumes :** Famille Péri, Simandre, 14 km
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 - **Pain :** Boulangerie L’Abricotine, Famille Cordier, Tournus 5km
