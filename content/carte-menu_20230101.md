@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2023-06-09T12:34:44+01:00
-draft: false
+date: 2022-10-15T12:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -69,9 +69,9 @@ Entrée, Plat, Fromage et Dessert | 46,50 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Tartelette sablée de légumes cuits et crus, crème à la truffe d’été, œuf bio, sorbet roquette | 18 €
-Truite du Jura marinée au thé fumé et fenouil, skyr bio, pickles de légumes | 18 €
-Escargots d’Amandine en ravioles, pleurotes bio et praliné noisette, émulsion persillade | 18 €
+Œuf bio mollet façon meurette, émulsion au lard fumé, pleurotes de Culles les Roches | 18 €
+Saumon d’Ecosse en deux façon, mariné à l’aneth et en rillettes, sorbet pomme granny-smith | 18 €
+Escargots d’Ouroux sur Saône façon cromesquis à l’ail des ours | 18 €
 Entrée du moment | 18 €
 
 _(Prix à la carte)_
@@ -80,13 +80,12 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Criée du moment | 29 €
-1/2 pigeon de Baudrières cuit sur coffre, cuisse confite, ketchup de mûres | 29 €
-Pavé de bœuf charolais grillé, foie gras, jus réduit au poivre de cassis | 29 €
-Poulette de Bresse de chez Morand farcie aux écrevisses, crème d’estragon | 29 €
+Pavé d’omble chevalier d’Isère cuit côté peau, jus de coquillages, poireaux grillés et citron confit | 29 €
+1/2 pigeon de Baudrières et foie gras façon pithiviers, jus réduit au porto | 29 €
+Pavé de bœuf charolais grillé, os à moelle, jus réduit au poivre de cassis | 29 €
+Poulette de Bresse de chez Morand farcie aux morilles et crème de vin jaune | 29 €
 
-
-_servis avec la garniture du marché (Prix à la carte 29 €)_
+_servis avec la garniture du marché (Prix à la carte)_
 
 ### Les fromages
 
@@ -101,9 +100,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
-La Fraise française — Tartare de fraises à la menthe, mousse pistache, crumble chocolat noir, sorbet fraise basilic | 12 €
-L’Ile flottante à la liqueur de verveine, abricots caramélisés au romarin, sorbet abricot | 12 €
-Assiette de glaces et sorbets maison (4 parfums aux choix) <br/> **Glaces :**  *vanille, pistaches, fève de tonka, café, rhum raisin.* <br/> **Sorbet :** *chocolat, fraise/basilic, orange/Grand Marnier, abricot/romarin.* | 12 €
+Crème brulée à la vanille, sablé breton, sorbet pommes granny smith | 12 €
+Duo chocolat noir 72% et café — Le chocolat en crumble et sorbet, le café en mousse légère | 12 €
+Le café gourmand — Les desserts à la carte version mini accompagné et une boisson chaude | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
