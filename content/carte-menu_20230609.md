@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2023-09-27T12:34:44+01:00
-draft: false
+date: 2023-06-09T12:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -69,9 +69,9 @@ Entrée, Plat, Fromage et Dessert | 46,50 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Tartelette aux ris de veau et escargots de la Chapelle, émulsion vin jaune | 18 €
-Œuf bio façon meurette, garniture Bourguignonne, mousse au lard fumé | 18 €
-Saumon d’Ecosse mariné au whisky tourbé puis brûlé, déclinaison autour de la betterave | 18 €
+Tartelette sablée de légumes cuits et crus, crème à la truffe d’été, œuf bio, sorbet roquette | 18 €
+Truite du Jura marinée au thé fumé et fenouil, skyr bio, pickles de légumes | 18 €
+Escargots d’Amandine en ravioles, pleurotes bio et praliné noisette, émulsion persillade | 18 €
 Entrée du moment | 18 €
 
 _(Prix à la carte)_
@@ -80,10 +80,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Sandre de nos rivières cuit côté peau, noisettes et potimarron, ravioles d’écrevisses sauce Nantua | 29 €
-1/2 pigeon de Baudrières en pithiviers, foie gras et trompettes, sauce salmis | 29 €
-Poulette de Bresse façon pot-au-feu, légumes racines, crème tartufade | 29 €
-Pavé de bœuf charolais grillé, paleron comme un cigare, réduction vigneronne | 29 €
+Criée du moment | 29 €
+1/2 pigeon de Baudrières cuit sur coffre, cuisse confite, ketchup de mûres | 29 €
+Pavé de bœuf charolais grillé, foie gras, jus réduit au poivre de cassis | 29 €
+Poulette de Bresse de chez Morand farcie aux écrevisses, crème d’estragon | 29 €
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -101,8 +101,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
-La Poire d’Uchizy — Crumble noisettes, poire pochée vanille et fève tonka, mousse de riz au lait, glace au foin | 12 €
-Le Chocolat de Saint Domingue 70% en déclinaison – Granolat chocolat noix de pécans, ultra crémeux, sauce chocolat, glace chocolat | 12 €
+La Fraise française — Tartare de fraises à la menthe, mousse pistache, crumble chocolat noir, sorbet fraise basilic | 12 €
+L’Ile flottante à la liqueur de verveine, abricots caramélisés au romarin, sorbet abricot | 12 €
+Assiette de glaces et sorbets maison (4 parfums aux choix) <br/> **Glaces :**  *vanille, pistaches, fève de tonka, café, rhum raisin.* <br/> **Sorbet :** *chocolat, fraise/basilic, orange/Grand Marnier, abricot/romarin.* | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -117,7 +118,7 @@ Origines des viandes, poissons et oeufs …et autres gourmandises
 - **Boeuf :** France
 - **Truite :** Jura, France
 - **Veau bio et agneau bio :** Ferme du Mont Rouge,Famille Seckler,  Blanot, 24 km
-- **Poulet de Bresse:** Johan Morand, Bantanges , 26 km
+- **Poulet de Bresse:** Johan Morand, , Bantanges , 26 km
 - **Porc :** France
 - **Bière :** Brasserie Two Dudes, Tournus, 4 km
 - **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km

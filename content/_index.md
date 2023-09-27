@@ -20,12 +20,13 @@ Terrasse et salle climatisée.
 {{% /box %}}
 
 
-<p><a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="img/label_michelin.png" align="right" width="20%"/></a>En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.</p>
+<p><a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="img/label_michelin.png" align="right" width="20%"/></a>En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.
+</p>
 
 Natif de la région, Guillaume propose une [cuisine bistronomique axée sur les produits locaux](/carte-menu/).
 
-Ses spécialités travaillées avec passion : le pigeon de Baudrières, le poulet de Bresse, l’oeuf bio, les déclinaisons de légumes de saison, ainsi que qu’une sélection de vins de notre région.
-Découvrez des recettes inspirées des saveurs naturelles de notre terroir.
+<p><a href="https://www.tripadvisor.com/Restaurant_Review-g1940685-d2236223-Reviews-L_Auberge_des_Gourmets-Le_Villars_Saone_et_Loire_Bourgogne_Franche_Comte.html" target="_blank"><img src="img/tc_2023.gif" align="right" width="20%"/></a>Ses spécialités travaillées avec passion : le pigeon de Baudrières, le poulet de Bresse, l’oeuf bio, les déclinaisons de légumes de saison, ainsi que qu’une sélection de vins de notre région.
+Découvrez des recettes inspirées des saveurs naturelles de notre terroir.</p>
 
 ## Quoi de neuf ?
 
