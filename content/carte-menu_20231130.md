@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2024-01-13T2:34:44+01:00
-draft: false
+date: 2023-09-27T12:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -38,11 +38,11 @@ Nous vous souhaitons un agréable moment en notre compagnie.
 
 Menu du marché                   | Prix
 ---------------------------------|------
-Entrée, plat ou plat, dessert    | 22 €
-Entrée, plat, fromage ou dessert | 29 €
-Entrée, plat, fromage, dessert   | 34 €
+Entrée, plat ou plat, dessert    | 19,50 €
+Entrée, plat, fromage ou dessert | 26,50 €
+Entrée, plat, fromage, dessert   | 30,50 €
 
-**Entrée 11 € / Plat 18 € / Fromage 8 € / Dessert 8 €**
+**Entrée 9 € / Plat 15,50 € / Fromage 8 € / Dessert 8 €**
 
 _Servi uniquement les midis de semaine hors jours fériés_
 
@@ -54,7 +54,7 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 ### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment
 
-### Moelleux au chocolat, glace vanille ou deux boules de glace maison
+### Moelleux au chocolat, glace vanille ou deux boules de glace ou sorbet maison
 
 ---
 
@@ -62,16 +62,16 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 Menu à la carte | Prix
 ---------------------------------|------
-Entrée, Plat, Dessert	         | 42 €
-Entrée, Plat, Fromage et Dessert | 49 €	
+Entrée, Plat, Dessert	         | 39,50 €
+Entrée, Plat, Fromage et Dessert | 46,50 €	
 
 ### Pour débuter
 
 Entrées au choix | Prix
 ---------------------------------|------
-Œuf bio mollet façon meurette, pleurotes et mousse de lard fumé | 18 €
-Royale de foies blonds et écrevisses, émulsion à l’estragon | 18 €
-Tartelette de ris de veau et escargots de La Chapelle, mousse de vin jaune | 18 €
+Tartelette aux ris de veau et escargots de la Chapelle, émulsion vin jaune | 18 €
+Œuf bio façon meurette, garniture Bourguignonne, mousse au lard fumé | 18 €
+Saumon d’Ecosse mariné au whisky tourbé puis brûlé, déclinaison autour de la betterave | 18 €
 Entrée du moment | 18 €
 
 _(Prix à la carte)_
@@ -80,10 +80,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Pavé de sandre de nos rivières rôti coté peau, bouillon comme une pôchouse | 29 €
-Pavé de bœuf charolais grillé, compotée d’échalotes, jus réduit au poivre de Sarawak | 29 €
-Pigeon de Baudrières en pithiviers, farce fine aux trompettes et foie gras | 29 €
-Poulette de Bresse de chez Johan en deux façons, la cuisse confite, le suprême farci aux morilles, crème de vin jaune | 29 €
+Sandre de nos rivières cuit côté peau, noisettes et potimarron, ravioles d’écrevisses sauce Nantua | 29 €
+1/2 pigeon de Baudrières en pithiviers, foie gras et trompettes, sauce salmis | 29 €
+Poulette de Bresse façon pot-au-feu, légumes racines, crème tartufade | 29 €
+Pavé de bœuf charolais grillé, paleron comme un cigare, réduction vigneronne | 29 €
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -101,8 +101,8 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
-Le miel de Boyer — Blanc-manger au miel de châtaignier, crème anglaise à la brioche toastée, tuile caramel et graines de lin, glace au miel et spéculos | 12 €
-Les Agrumes bio – Crémeux aux deux citrons, pamplemousse et orange, meringue suisse, sorbet limoncello et crumble chocolat noir | 12 €
+La Poire d’Uchizy — Crumble noisettes, poire pochée vanille et fève tonka, mousse de riz au lait, glace au foin | 12 €
+Le Chocolat de Saint Domingue 70% en déclinaison – Granolat chocolat noix de pécans, ultra crémeux, sauce chocolat, glace chocolat | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -111,16 +111,17 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
 - **Oeufs bio :** La Poule verte, Famille Meulien, Tournus, 7 km
+- **Champignons bio :**  Corrine Baron, Culles-les-Roches, 35 km
 - **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
 - **Pigeons :** Pierre-Eudes Quintart, Baudrières, 21 km
 - **Boeuf :** France
-- **Truite :** Pisculture Beuques, Jura, France
-- **Veau bio et agneau bio :** Ferme du Mont Rouge, Famille Seckler, Blanot, 24 km
+- **Truite :** Jura, France
+- **Veau bio et agneau bio :** Ferme du Mont Rouge,Famille Seckler,  Blanot, 24 km
 - **Poulet de Bresse:** Johan Morand, Bantanges , 26 km
 - **Porc :** France
 - **Bière :** Brasserie Two Dudes, Tournus, 4 km
 - **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
-- **Poissons de nos rivières :** Nicolas Perrin, Seille et Saône
+- **Poissons de nos rivières :** Perrin, Seille et Saône
 - **Légumes :** Famille Péri, Simandre, 14 km
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 - **Pain :** Boulangerie L’Abricotine, Famille Cordier, Tournus 5km
