@@ -26,3 +26,6 @@ img2="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3a58c5(4.
 
 Nous sommes disponibles au [03 85 32 58 80](tel:0385325880) tous les jours sauf le mardi et le mercredi et dimanche soir pour répondre à vos appels téléphoniques.
 Vous pouvez également nous écrire à l’adresse suivante : [contact@laubergedesgourmets.com](mailto:contact@laubergedesgourmets.com)
+
+## Moyens de paiement
+Nous acceptons les chèques, espèces, cartes bancaires (Visa, MasterCard et AmericanExpress) et les chèques cadeaux Tournus.

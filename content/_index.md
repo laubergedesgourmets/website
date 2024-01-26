@@ -3,7 +3,7 @@ title: Restaurant - L’Auberge des Gourmets à deux pas de Tournus
 date: 2020-11-22T12:34:44+01:00
 draft: false
 ---
-{{% box class="" img="img/assiette_pigeonneau_cut.jpg" %}}
+{{% box class="" img="img/assiette_suamon_2024.jpg" %}}
 # L'Auberge des Gourmets
 
 À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef [Guillaume Laublanc](/guillaume-laublanc) vous convie à son restaurant.

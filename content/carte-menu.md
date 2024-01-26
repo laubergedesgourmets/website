@@ -7,7 +7,7 @@ type: page
 
 
 
-{{% box class="" img="/img/assiette_pigeonneau_cut.jpg" %}}
+{{% box class="" img="/img/assiette_suamon_2024.jpg" %}}
 # Carte et Menu
 
 ## Bienvenue à l’Auberge des Gourmets
@@ -44,7 +44,7 @@ Entrée, plat, fromage, dessert   | 34 €
 
 **Entrée 11 € / Plat 18 € / Fromage 8 € / Dessert 8 €**
 
-_Servi uniquement les midis de semaine hors jours fériés_
+_Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fériés_
 
 <hr/>
 
