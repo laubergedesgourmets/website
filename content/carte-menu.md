@@ -130,7 +130,7 @@ La liste des plats contenant des allergènes est disponible auprès de l’équi
 
 Nous sommes à votre écoute pour toute question sur la composition des plats.
 
-
+<!-- 
 ## Boissons
 
 Apéritifs sans alcool |  | Prix
@@ -199,3 +199,4 @@ Bulles 75 cl | Prix
 Crémant de Bourgogne Rosé brut, Sélection P.Gauthier | 32 €
 Crémant de Bourgogne Brut, Picamelot | 39 €   
 Champagne Foissy Joly Brut | 68 €	
+ -->
