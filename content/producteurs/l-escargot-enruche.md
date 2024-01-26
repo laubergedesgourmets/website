@@ -12,6 +12,7 @@ website : https://www.facebook.com/Lescargot-enruché-553389925108857/
 phone : +33 6 59 63 93 21
 km: "25km"
 date: 2020-11-22T14:25:59+01:00
+draft: true
 ---
 
 L'escargot enruché, exploitation hélicicole située sur la commune d'Ouroux-sur-Saône. Passionnée par cet animal, 2018 à grande vitesse : école, parc, labo!

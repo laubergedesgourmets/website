@@ -1,6 +1,6 @@
 ---
 title: "La Ferme des Muses"
-subtitle: "Annel-Laure Bontemps"
+subtitle: "Anne-Laure Bontemps"
 location: "Chemin de, L'Arvolot, 71700 Boyer, France"
 products: "Fromage de vache BIO"
 lat: 46.612973 
