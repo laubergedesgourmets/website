@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2020-11-22T12:34:44+01:00
+date: 2024-01-13T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -38,23 +38,23 @@ Nous vous souhaitons un agréable moment en notre compagnie.
 
 Menu du marché                   | Prix
 ---------------------------------|------
-Entrée, plat ou plat, dessert    | 18,50 €
-Entrée, plat, fromage ou dessert | 25,50 €
-Entrée, plat, fromage, dessert   | 29,50 €
+Entrée, plat ou plat, dessert    | 22 €
+Entrée, plat, fromage ou dessert | 29 €
+Entrée, plat, fromage, dessert   | 34 €
 
-**Entrée 8 € / Plat 12,50 € / Fromage 8 € / Dessert 8 €**
+**Entrée 11 € / Plat 18 € / Fromage 8 € / Dessert 8 €**
 
 _Servi uniquement les midis de semaine hors jours fériés_
 
 <hr/>
 
-## Menu enfant à 14 €
+## Menu enfant à 15 €
 
 ### Boisson au choix
 
-### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment 
+### Suggestion du chef (poisson ou viande du moment) accompagnée de la garniture du moment
 
-### Moelleux au chocolat, glace vanille ou deux boules de glace ou sorbet maison
+### Moelleux au chocolat, glace vanille ou deux boules de glace maison
 
 ---
 
@@ -62,19 +62,17 @@ _Servi uniquement les midis de semaine hors jours fériés_
 
 Menu à la carte | Prix
 ---------------------------------|------
-Entrée, Plat, Dessert	         | 38,50 €
-Entrée, Plat, Fromage et Dessert | 45,50 €	
+Entrée, Plat, Dessert	         | 42 €
+Entrée, Plat, Fromage et Dessert | 49 €	
 
 ### Pour débuter
 
 Entrées au choix | Prix
 ---------------------------------|------
-Entrée du moment | 12 €
-L’œuf bio de Tournus crousti-coulant, crème d’artichauts, émulsion au foie gras | 12 €
-La truite du Jura aux graines de fenouils, bavaroise de choux fleur, pointe de caviar français | 12 €
-Mijoté de légumes printaniers, truffe d’été, copeaux de jambon cru | 12 €
-Ravioles aux escargots d’Ouroux-sur-Saône, pleurotes Bio et crème d’orties | 12 €
-Médaillon de foie gras des Landes cuit au naturel, chutney rhubarbe et gingembre *(Supplément menu 5 €)* | 17 €
+Œuf bio mollet façon meurette, pleurotes et mousse de lard fumé | 18 €
+Royale de foies blonds et écrevisses, émulsion à l’estragon | 18 €
+Tartelette de ris de veau et escargots de La Chapelle, mousse de vin jaune | 18 €
+Entrée du moment | 18 €
 
 _(Prix à la carte)_
 
@@ -82,24 +80,29 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Criée du moment | 22 €
-Pigeon de Baudrières en deux façons, jus réduit aux fruits rouges, tartine d’abats | 22 €
-Médaillon de poulette de Bresse farcie au foie gras, crème de vin jaune | 22 €
-Filet de canette des Dombes rôtie, sauce aux griottes et vinaigre balsamique | 22 €
-Pièce du boucher | 22 €
+Pavé de sandre de nos rivières rôti coté peau, bouillon comme une pôchouse | 29 €
+Pavé de bœuf charolais grillé, compotée d’échalotes, jus réduit au poivre de Sarawak | 29 €
+Pigeon de Baudrières en pithiviers, farce fine aux trompettes et foie gras | 29 €
+Poulette de Bresse de chez Johan en deux façons, la cuisse confite, le suprême farci aux morilles, crème de vin jaune | 29 €
 
-_servis avec la garniture du marché (Prix à la carte)_
+
+_servis avec la garniture du marché (Prix à la carte 29 €)_
+
+### Les fromages
+
+Fromage au choix | Prix
+---------------------------------|------
+Fromage blanc bio de la ferme des Muses sucré ou salé | 7 €
+Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 €
+
 
 ### Pour terminer
 
-Dessert/Fromage au choix | Prix
+Dessert au choix | Prix
 ---------------------------------|------
-Le fromage blanc bio de la ferme des Muses sucré ou salé | 6 €
-L’assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 9 €
-Soufflé glacé au Grand-Marnier, coulis mangue et tuile à l’orange | 9 €
-La fraise française - Biscuit à l’huile d’olive et au fruit de la passion, confiture de fraise et fleur d’oranger, Crémeux chocolat blanc basilic, gaufrette mâconnaise et sorbet fraise  | 9 €
-Brownies chocolat noir aux noix de pécan, crémeux chocolat lait, banane juste caramélisé et sorbet banane | 9 €
-L’assiette de glaces et sorbets (5 Parfums au choix) Glaces : Vanille de Madagascar, Lait d’amande, Caramel beurre salé, Pistache - Sorbets : Fraise, Citron, Banane, Chocolat  | 9 €
+Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
+Le miel de Boyer — Blanc-manger au miel de châtaignier, crème anglaise à la brioche toastée, tuile caramel et graines de lin, glace au miel et spéculos | 12 €
+Les Agrumes bio – Crémeux aux deux citrons, pamplemousse et orange, meringue suisse, sorbet limoncello et crumble chocolat noir | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -108,17 +111,16 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
 - **Oeufs bio :** La Poule verte, Famille Meulien, Tournus, 7 km
-- **Champignons bio :**  Corrine Baron, Culles-les-Roches, 35 km
 - **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
 - **Pigeons :** Pierre-Eudes Quintart, Baudrières, 21 km
 - **Boeuf :** France
-- **Truite :** Jura, France
-- **Veau bio et agneau bio :** Ferme du Mont Rouge,Famille Seckler,  Blanot, 24 km
-- **Poulet de Bresse:** Johan Morand, , Bantanges , 26 km
+- **Truite :** Pisculture Beuques, Jura, France
+- **Veau bio et agneau bio :** Ferme du Mont Rouge, Famille Seckler, Blanot, 24 km
+- **Poulet de Bresse:** Johan Morand, Bantanges , 26 km
 - **Porc :** France
 - **Bière :** Brasserie Two Dudes, Tournus, 4 km
 - **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
-- **Poissons de nos rivières :** Sébastien Kornprobst, Seille et Saône
+- **Poissons de nos rivières :** Nicolas Perrin, Seille et Saône
 - **Légumes :** Famille Péri, Simandre, 14 km
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 - **Pain :** Boulangerie L’Abricotine, Famille Cordier, Tournus 5km
@@ -128,7 +130,7 @@ La liste des plats contenant des allergènes est disponible auprès de l’équi
 
 Nous sommes à votre écoute pour toute question sur la composition des plats.
 
-
+<!-- 
 ## Boissons
 
 Apéritifs sans alcool |  | Prix
@@ -197,3 +199,4 @@ Bulles 75 cl | Prix
 Crémant de Bourgogne Rosé brut, Sélection P.Gauthier | 32 €
 Crémant de Bourgogne Brut, Picamelot | 39 €   
 Champagne Foissy Joly Brut | 68 €	
+ -->

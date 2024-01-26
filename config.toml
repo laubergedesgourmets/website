@@ -27,11 +27,11 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
-#  [[menu.main]]
-#    identifier = "carte-menu-fete-des-meres_2022"
-#    name = "Menu Fête des Mères 2022"
-#    url = "/carte-menu-fete-des-meres_2022/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "carte-menu-saint-valentin_2024"
+    name = "Menu St-Valentin"
+    url = "/carte-menu-saint-valentin_2024/"
+    weight = 3
 
 
   # [[menu.main]]
