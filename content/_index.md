@@ -4,6 +4,9 @@ date: 2020-11-22T12:34:44+01:00
 draft: false
 ---
 {{% box class="" img="img/assiette_suamon_2024.jpg" %}}
+
+<a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="img/label_michelin_2024.png" alt="Guide Michelin - Bib Gourmand : nos meilleurs rapports qualité-prix" style="width:15vw;min-width:90px;max-width:130px;margin:0;"/></a>
+
 # L'Auberge des Gourmets
 
 À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef [Guillaume Laublanc](/guillaume-laublanc) vous convie à son restaurant.
@@ -20,7 +23,7 @@ Terrasse et salle climatisée.
 {{% /box %}}
 
 
-<p><a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="img/label_michelin.png" align="right" width="20%"/></a>En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.
+<p>En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.
 </p>
 
 Natif de la région, Guillaume propose une [cuisine bistronomique axée sur les produits locaux](/carte-menu/).
