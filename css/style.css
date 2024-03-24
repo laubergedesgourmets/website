@@ -79,7 +79,7 @@ main {
     display: grid;
     width: 100%;
     grid-template-columns:
-      [full-start] minmax(1em, 1fr) [main-start] minmax(0, 50em) [main-end] minmax(1em, 1fr) [full-end];
+      [full-start] minmax(1em, 1fr) [main-start] minmax(0, 55em) [main-end] minmax(1em, 1fr) [full-end];
   }
 
   .container>* {
@@ -242,9 +242,9 @@ h3,
 
 h4,
 .h4 {
-  font-size: calc(0.8em + 1vw);
-  font-size: -webkit-calc(80% + 1vw);
-  font-size: clamp(1rem, calc(0.8em + 1vw) 1.2rem);
+  font-size: calc(0.6em + 1vw);
+  font-size: -webkit-calc(60% + 1vw);
+  font-size: clamp(0.8rem, calc(0.6em + 1vw), 1.2rem);
   font-weight: normal;
   line-height: 1.3em;
   margin-top: 0;
@@ -339,7 +339,7 @@ p img{
   gap: 1rem;
   display: grid;
   grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(350px, 100%), 1fr));
 }
 
 .items .item {
@@ -373,6 +373,9 @@ p img{
   grid-template-rows: 0.3fr 1.3fr 3fr 0.3fr 1fr;
   grid-template-columns: 3fr 0.3fr 3fr 0.3fr 2fr;
   gap: 0px 0px;  
+}
+.banner+*{
+  background-color: white; 
 }
 @media (max-width: 800px) { 
   .banner{
@@ -410,7 +413,7 @@ p img{
 .box-img {
   margin: 3em 0 1em 0;
   object-fit: cover;
-  max-height: 24em;
+  max-height: 30em;
   width: 100%;
 }
 
