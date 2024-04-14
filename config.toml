@@ -27,11 +27,11 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
-  [[menu.main]]
-    identifier = "carte-menu-paques_2024"
-    name = "Menu Pâques"
-    url = "/carte-menu-paques_2024/"
-    weight = 3
+  # [[menu.main]]
+  #   identifier = "carte-menu-paques_2024"
+  #   name = "Menu Pâques"
+  #   url = "/carte-menu-paques_2024/"
+  #   weight = 3
 
 
   # [[menu.main]]

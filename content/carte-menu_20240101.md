@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2024-04-13T2:34:44+01:00
+date: 2024-01-13T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -69,10 +69,10 @@ Entrée, Plat, Fromage et Dessert | 49 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Charlotte aux asperges françaises et truite du Jura marinée, vinaigrette à l’ail des ours | 18 €
-Œuf bio servi tiède, bavaroise de petits pois, légumes primeur de chez Péri, magret de canard fumé par nos soins | 18 €
-Royale de foies blonds et écrevisses, tartare de légumes, émulsion à l’estragon | 18 €
-Tartelette de ris de veau, escargots d’ici et morilles, compotée d’échalotes émulsion vin jaune | 18 €
+Œuf bio mollet façon meurette, pleurotes et mousse de lard fumé | 18 €
+Royale de foies blonds et écrevisses, émulsion à l’estragon | 18 €
+Tartelette de ris de veau et escargots de La Chapelle, mousse de vin jaune | 18 €
+Entrée du moment | 18 €
 
 _(Prix à la carte)_
 
@@ -80,14 +80,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Criée du moment _Poisson de la pêche française durable préparé selon l’inspiration du chef_ | 29 €
-Filet de veau français grillé, jus de carottes et cumin, condiment citron confit | 29 €
-Pigeon de Baudrières en pithiviers, farce fine au foie gras et datte, jus réduit | 29 €
+Pavé de sandre de nos rivières rôti coté peau, bouillon comme une pôchouse | 29 €
+Pavé de bœuf charolais grillé, compotée d’échalotes, jus réduit au poivre de Sarawak | 29 €
+Pigeon de Baudrières en pithiviers, farce fine aux trompettes et foie gras | 29 €
 Poulette de Bresse de chez Johan en deux façons, la cuisse confite, le suprême farci aux morilles, crème de vin jaune | 29 €
-
-
-
-
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -104,9 +100,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**Le Chocolat** Soufflé chaud au chocolat grand cru, crème glacée à la menthe et éclats de chocolat | 12 €
-**La Fraise et la Rhubarbe** Fraises fraîches, rhubarbe pochée au jus de fraise, financier amandes et thym citron, sorbet fraise | 12 €
-**La Pistache** Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome | 12 €
+Soufflé chaud au Grand-Marnier, sorbet orange bio | 12 €
+Le miel de Boyer — Blanc-manger au miel de châtaignier, crème anglaise à la brioche toastée, tuile caramel et graines de lin, glace au miel et spéculos | 12 €
+Les Agrumes bio – Crémeux aux deux citrons, pamplemousse et orange, meringue suisse, sorbet limoncello et crumble chocolat noir | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -114,20 +110,20 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
-- **Oeufs bio :** [La Poule verte](/producteurs/la-poule-verte/), Famille Meulien, Tournus, 7 km
+- **Oeufs bio :** La Poule verte, Famille Meulien, Tournus, 7 km
 - **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
-- **Pigeons :** [Pierre-Eudes Quintart](/producteurs/quintart_pigeonneaux/), Baudrières, 21 km
+- **Pigeons :** Pierre-Eudes Quintart, Baudrières, 21 km
 - **Boeuf :** France
-- **Truite :** [Pisculture Beuques](/producteurs/latruitedelapetitemontagne/), Jura, France
-- **Veau bio et agneau bio :** [Ferme du Mont Rouge](/producteurs/lafermedumontrouge/), Famille Seckler, Blanot, 24 km
-- **Poulet de Bresse:** [Johan Morand](/producteurs/johan-morand/), Bantanges , 26 km
+- **Truite :** Pisculture Beuques, Jura, France
+- **Veau bio et agneau bio :** Ferme du Mont Rouge, Famille Seckler, Blanot, 24 km
+- **Poulet de Bresse:** Johan Morand, Bantanges , 26 km
 - **Porc :** France
-- **Bière :** [Brasserie Two Dudes](/producteurs/two-dudes/), Tournus, 4 km
-- **Lait bio, crème bio, beurre bio :** [La Ferme des Muses](/producteurs/la-ferme-des-muses/), Anne-Laure Bontemps, Boyer, 10 km
+- **Bière :** Brasserie Two Dudes, Tournus, 4 km
+- **Lait bio, crème bio, beurre bio :** La Ferme des Muses, Anne-Laure Bontemps, Boyer, 10 km
 - **Poissons de nos rivières :** Nicolas Perrin, Seille et Saône
-- **Légumes :** [Famille Péri](/producteurs/etablissementperisimandre/), Simandre, 14 km
+- **Légumes :** Famille Péri, Simandre, 14 km
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
-- **Pain :** [Boulangerie L’Abricotine](/producteurs/boulangerie-l-abricotine), Famille Cordier, Tournus 5km
+- **Pain :** Boulangerie L’Abricotine, Famille Cordier, Tournus 5km
 - **Miel :** Miellerie de la Natouze, Gilbert Bontemps, Boyer, 10 km
 
 La liste des plats contenant des allergènes est disponible auprès de l’équipe.
