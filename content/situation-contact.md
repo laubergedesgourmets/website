@@ -15,7 +15,7 @@ Vous pouvez également nous écrire à l’adresse suivante : [contact@lauberged
 
 
 
-## Nous trouver – Le Villars, tout prêt de Tournus entre Chalon-sur-Saône et Macon
+## Nous trouver – Le Villars, tout près de Tournus entre Chalon-sur-Saône et Macon
 
 ### Notre restaurant au centre du village Le Villars
 
