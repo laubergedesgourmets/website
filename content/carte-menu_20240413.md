@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2024-06-21T2:34:44+01:00
+date: 2024-04-13T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -69,10 +69,10 @@ Entrée, Plat, Fromage et Dessert | 49 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Œuf bio mollet , artichauts dans tous ces états, émulsion à la truffe d’été | 18 €
-Thon rouge issue de pêche durable mariné et brulé, pousse de moutarde rouge, glace au sésame noir et wasabi | 18 €
-Balade dans le jardin de la Famille Péri, fricassé d’escargots et lard fumé et vinaigre balsamique | 18 €
-Déclinaison autour de la tomate, basilic pourpre, espuma mozzarella fumée,sorbet roquette | 18 €
+Charlotte aux asperges françaises et truite du Jura marinée, vinaigrette à l’ail des ours | 18 €
+Œuf bio servi tiède, bavaroise de petits pois, légumes primeur de chez Péri, magret de canard fumé par nos soins | 18 €
+Royale de foies blonds et écrevisses, tartare de légumes, émulsion à l’estragon | 18 €
+Tartelette de ris de veau, escargots d’ici et morilles, compotée d’échalotes émulsion vin jaune | 18 €
 
 _(Prix à la carte)_
 
@@ -80,10 +80,11 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Filets de rouget barbet cuits côté peau, jus de viande au thym, foccacia auxlégumes confits | 29 €
-Filet de bœuf français grillé, tomates et olives noires, petits légumes farcis | 29 €
-1/2 Pigeon de Baudrières rôti sur coffre, escalope foie gras, jus réduit aux fruits rouges | 29 €
-Poulette de Bresse de chez Johan farcie aux écrevisses, crème à l’estragon | 29 €
+Criée du moment _Poisson de la pêche française durable préparé selon l’inspiration du chef_ | 29 €
+Filet de veau français grillé, jus de carottes et cumin, condiment citron confit | 29 €
+Pigeon de Baudrières en pithiviers, farce fine au foie gras et datte, jus réduit | 29 €
+Poulette de Bresse de chez Johan en deux façons, la cuisse confite, le suprême farci aux morilles, crème de vin jaune | 29 €
+
 
 
 
@@ -103,9 +104,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**L’Omelette Norvégienne** Biscuit cuillère, glace vanille et raisins imbibés au vieux rhum agricole, meringue italienne | 12 €
-**Les Fruits d’été** Fruits de saison en différentes textures, sorbet yaourt bio, gaufrette mâconnaise | 12 €
-**L’Abricot** Crumble aux amandes, abricots rôtis à la fleur de romarin, glace au lait d’amande | 12 €
+**Le Chocolat** Soufflé chaud au chocolat grand cru, crème glacée à la menthe et éclats de chocolat | 12 €
+**La Fraise et la Rhubarbe** Fraises fraîches, rhubarbe pochée au jus de fraise, financier amandes et thym citron, sorbet fraise | 12 €
+**La Pistache** Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -128,7 +129,6 @@ Origines des viandes, poissons et oeufs …et autres gourmandises
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 - **Pain :** [Boulangerie L’Abricotine](/producteurs/boulangerie-l-abricotine), Famille Cordier, Tournus 5km
 - **Miel :** Miellerie de la Natouze, Gilbert Bontemps, Boyer, 10 km
-- **Fleurs comestibles :** Madame Printemps, Simandre, 14 km
 
 La liste des plats contenant des allergènes est disponible auprès de l’équipe.
 

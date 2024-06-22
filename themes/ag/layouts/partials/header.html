@@ -1,3 +1,15 @@
+<div style="background-color: #3B59C6; color:white;text-align: center;padding: 1.3em;display: none;" id="vacances">
+	Nous sommes en vacances, réouverture le 12 juillet 2024
+</div>
+<script>
+	const startDate = new Date('2024-06-24');
+	const endDate = new Date('2024-07-11');
+	const currentDate = new Date();
+	if(currentDate >= startDate && currentDate <= endDate){
+		document.getElementById('vacances').style.display = 'block';
+	}
+</script>
+
 <header>
 	<a href="{{ .Site.BaseURL }}" id="logo">
 		<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
