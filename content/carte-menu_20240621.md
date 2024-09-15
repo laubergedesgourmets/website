@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2024-09-12T2:34:44+01:00
+date: 2024-06-21T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -72,7 +72,7 @@ Entrées au choix | Prix
 Œuf bio mollet , artichauts dans tous ces états, émulsion à la truffe d’été | 18 €
 Thon rouge issue de pêche durable mariné et brulé, pousse de moutarde rouge, glace au sésame noir et wasabi | 18 €
 Balade dans le jardin de la Famille Péri, fricassé d’escargots et lard fumé et vinaigre balsamique | 18 €
-Déclinaison autour de la tomate, basilic pourpre, espuma mozzarella fumée, sorbet roquette | 18 €
+Déclinaison autour de la tomate, basilic pourpre, espuma mozzarella fumée,sorbet roquette | 18 €
 
 _(Prix à la carte)_
 
@@ -80,10 +80,13 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Filets de rouget barbet cuits côté peau, jus de viande au thym, foccacia aux légumes confits | 29 €
+Filets de rouget barbet cuits côté peau, jus de viande au thym, foccacia auxlégumes confits | 29 €
 Filet de bœuf français grillé, tomates et olives noires, petits légumes farcis | 29 €
 1/2 Pigeon de Baudrières rôti sur coffre, escalope foie gras, jus réduit aux fruits rouges | 29 €
 Poulette de Bresse de chez Johan farcie aux écrevisses, crème à l’estragon | 29 €
+
+
+
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -100,9 +103,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**Le Soufflé chaud** au Grand Marnier, sorbet mandarine | 12 €
-**La Mirabelle** Sablé à la farine de gaudes, compotée de coings à la vanille, mirabelles rôties, glace à la levure torréfiée | 12 €
-**Le Chocolat** Biscuit viennois, ganache montée chocolat cassis, coulis chocolat, crème glacée chocolat lait et gingembre | 12 €
+**L’Omelette Norvégienne** Biscuit cuillère, glace vanille et raisins imbibés au vieux rhum agricole, meringue italienne | 12 €
+**Les Fruits d’été** Fruits de saison en différentes textures, sorbet yaourt bio, gaufrette mâconnaise | 12 €
+**L’Abricot** Crumble aux amandes, abricots rôtis à la fleur de romarin, glace au lait d’amande | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -111,7 +114,7 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
 - **Oeufs bio :** [La Poule verte](/producteurs/la-poule-verte/), Famille Meulien, Tournus, 7 km
-- **Escargots :** Les Escargots d’Amandine, La Chapelle-Tècle, 21 km
+- **Escargots :** L’Escargot Enruché, Françoise Invernizzi, Ouroux sur Saône, 21 km
 - **Pigeons :** [Pierre-Eudes Quintart](/producteurs/quintart_pigeonneaux/), Baudrières, 21 km
 - **Boeuf :** France
 - **Truite :** [Pisculture Beuques](/producteurs/latruitedelapetitemontagne/), Jura, France
