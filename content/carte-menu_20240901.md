@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2024-09-21T2:34:44+01:00
+date: 2024-09-12T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -69,10 +69,10 @@ Entrée, Plat, Fromage et Dessert | 49 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Salade de caille confite de chez Morgan Louche, pain au maïs et pickles de raisins | 18 €
-Œuf bio mollet et fricassée de champignons en tartelette, crème de lard et ail fumée, huile de noisettes | 18 €
-Truite du Jura marinée à l’aneth, pomme d’Uchizy et radis noir, sorbet pomme gingembre | 18 €
-Raviole de joue de bœuf confite, foie gras, courges et bouillon d’oignons caramélisés | 18 €
+Œuf bio mollet , artichauts dans tous ces états, émulsion à la truffe d’été | 18 €
+Thon rouge issue de pêche durable mariné et brulé, pousse de moutarde rouge, glace au sésame noir et wasabi | 18 €
+Balade dans le jardin de la Famille Péri, fricassé d’escargots et lard fumé et vinaigre balsamique | 18 €
+Déclinaison autour de la tomate, basilic pourpre, espuma mozzarella fumée, sorbet roquette | 18 €
 
 _(Prix à la carte)_
 
@@ -80,11 +80,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Sandre de nos rivières rôti côté peau, poireaux fumés, émulsion au curry du jardin | 29 €
-Pavé de cerf cuit au sautoir, jus au gin et genièvre, garniture automnale | 29 €
-1/2 Pigeon de Baudrière et foie gras en chou farcie jus des carcasses lié à la betterave | 29 €
-Pintade de Bresse en 2 façon, la cuisse confite, le suprême farci aux trompettes, sauce salmis | 29 €
-
+Filets de rouget barbet cuits côté peau, jus de viande au thym, foccacia aux légumes confits | 29 €
+Filet de bœuf français grillé, tomates et olives noires, petits légumes farcis | 29 €
+1/2 Pigeon de Baudrières rôti sur coffre, escalope foie gras, jus réduit aux fruits rouges | 29 €
+Poulette de Bresse de chez Johan farcie aux écrevisses, crème à l’estragon | 29 €
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
