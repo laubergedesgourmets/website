@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2025-01-23T2:34:44+01:00
+date: 2024-09-21T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -69,10 +69,10 @@ Entrée, Plat, Fromage et Dessert | 49 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-Escargots d’Amandine en croûte<br/>Morilles et boudin de volaille, crème au vin jaune | 18  €
-Œuf bio mollet façon meurette<br/>Pleurotes de Culles les Roches, oignons grelots, émulsion au lard fumé | 18  €
-Truite du Jura marinée à l’aneth<br/>Pomme d’Uchizy et radis noir, sorbet pomme gingembre | 18  €
-Ravioles de joue de bœuf confite<br/>foie gras, courges et bouillon d’oignons caramélisés | 18  €
+Salade de caille confite de chez Morgan Louche, pain au maïs et pickles de raisins | 18 €
+Œuf bio mollet et fricassée de champignons en tartelette, crème de lard et ail fumée, huile de noisettes | 18 €
+Truite du Jura marinée à l’aneth, pomme d’Uchizy et radis noir, sorbet pomme gingembre | 18 €
+Raviole de joue de bœuf confite, foie gras, courges et bouillon d’oignons caramélisés | 18 €
 
 _(Prix à la carte)_
 
@@ -80,10 +80,11 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-Sandre de nos rivières<br/>Rôti côté peau, poireaux fumés, émulsion au curry du jardin | 29 €
-Filet de canette française<br/>Gnocchis de betteraves, réduction à l’orange bio et poivre long | 29 €
-1/2 Pigeon de Baudrière en pithiviers<br/>Farce fine au foie gras, réduction de jus des carcasses et crème de cassis | 29 €
-Pintade de Bresse en 2 façons<br/>La cuisse confite, le suprême farci aux trompettes, sauce salmis | 29 €
+Sandre de nos rivières rôti côté peau, poireaux fumés, émulsion au curry du jardin | 29 €
+Pavé de cerf cuit au sautoir, jus au gin et genièvre, garniture automnale | 29 €
+1/2 Pigeon de Baudrière et foie gras en chou farcie jus des carcasses lié à la betterave | 29 €
+Pintade de Bresse en 2 façon, la cuisse confite, le suprême farci aux trompettes, sauce salmis | 29 €
+
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -101,8 +102,8 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 **Le Soufflé chaud** au Grand Marnier, sorbet mandarine | 12 €
-**la Châtaigne et les Agrumes** Moelleux châtaigne, crème aux éclats de marrons, kumquat et sorbet kalamansi | 12 €
-**Le Chocolat** Crumble chocolat, ganache montée chocolat cassis, sorbet cassis de Bourgogne | 12 €
+**La Mirabelle** Sablé à la farine de gaudes, compotée de coings à la vanille, mirabelles rôties, glace à la levure torréfiée | 12 €
+**Le Chocolat** Biscuit viennois, ganache montée chocolat cassis, coulis chocolat, crème glacée chocolat lait et gingembre | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
