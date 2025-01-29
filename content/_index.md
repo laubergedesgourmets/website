@@ -5,11 +5,14 @@ draft: false
 ---
 {{% box class="" img="img/assiette_suamon_2024.jpg" %}}
 
+**Du lundi 17 février au jeudi 20 mars - nous serons fermé pour travaux.<br/>Ré-ouverture le vendredi 21 mars 2025.**
+
 <a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="img/label_michelin_2024.png" alt="Guide Michelin - Bib Gourmand : nos meilleurs rapports qualité-prix" style="width:15vw;min-width:90px;max-width:130px;margin:0;"/></a>
 
 # L'Auberge des Gourmets
 
 À deux pas de Tournus, c’est dans le petit village de Le Villars, en Saône-et-Loire (71 - Bourgogne), que le chef [Guillaume Laublanc](/guillaume-laublanc) vous convie à son restaurant.
+
 
 <hr>
 
