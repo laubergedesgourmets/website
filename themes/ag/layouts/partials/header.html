@@ -10,6 +10,28 @@
 	}
 </script>
 
+
+
+<div style="text-align: left;margin-bottom:2.3em;padding: 1.3em;box-shadow: -1em 1em 1.5em rgb(0, 0, 0, 0.25), -2em 2em 0 #3B59C6, -3em 3em 1.5em rgb(0, 0, 0, 0.15); display: none;" id="annonce">
+	<p>
+		<strong>🛎️ NOUS RECRUTONS !</strong><br/>
+	Notre restaurant recherche :
+	un(e) serveur(se)<br/>
+	Envoyez-nous votre CV à
+	<a href="mailto:contact@laubergedesgourmets.com?subject=Candidature%20serveur(se)%20-%20&body=Bonjour%2C%0A%0AN'oubliez%20pas%20votre%20CV%20...">contact@laubergedesgourmets.com</a><br/>
+	<i>Congés les mardis, mercredis et dimanche soirs</i>
+	</p>
+</div>
+
+<script>
+	const startDateAnnonce = new Date('2025-01-30');
+	const endDateAnnonce = new Date('2025-03-20');
+	const currentDateAnnonce = new Date();
+	if(currentDateAnnonce >= startDateAnnonce && currentDateAnnonce <= endDateAnnonce){
+		document.getElementById('annonce').style.display = 'block';
+	}
+</script>
+
 <header>
 	<a href="{{ .Site.BaseURL }}" id="logo">
 		<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
