@@ -1,6 +1,6 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2025-03-15T2:34:44+01:00
+date: 2025-01-23T2:34:44+01:00
 draft: false
 type: page
 ---
@@ -38,10 +38,11 @@ Nous vous souhaitons un agréable moment en notre compagnie.
 
 Menu du marché                   | Prix
 ---------------------------------|------
-Entrée, plat ou plat, dessert    | 25 €
-Entrée, plat, fromage ou dessert | 32 €
-Entrée, plat, fromage, dessert   | 37 €
+Entrée, plat ou plat, dessert    | 22 €
+Entrée, plat, fromage ou dessert | 29 €
+Entrée, plat, fromage, dessert   | 34 €
 
+**Entrée 11 € / Plat 18 € / Fromage 8 € / Dessert 8 €**
 
 _Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fériés_
 
@@ -61,17 +62,17 @@ _Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fé
 
 Menu à la carte | Prix
 ---------------------------------|------
-Entrée, Plat, Dessert	         | 45 €
-Entrée, Plat, Fromage et Dessert | 52 €	
+Entrée, Plat, Dessert	         | 42 €
+Entrée, Plat, Fromage et Dessert | 49 €	
 
 ### Pour débuter
 
 Entrées au choix | Prix
 ---------------------------------|------
-**Mosaïque de poireaux de Simandre et truite du Jura marinée** <br/>mayonnaise aux agrumes et piment de Bresse | 18 €
-**Œuf bio servi mollet comme une meurette** <br/>Pleurotes bio, émulsion lard fumé, réduction bourguignonne | 18 €
-**Royale de foies blonds et écrevisses** <br/>Tartare de légumes, émulsion à l’estragon | 18 €
-**Tartelette aux escargots d’Amandine** <br/>Morilles et mousseline de volailles, légumes printaniers, crème de vin jaune | 18 €
+Escargots d’Amandine en croûte<br/>Morilles et boudin de volaille, crème au vin jaune | 18  €
+Œuf bio mollet façon meurette<br/>Pleurotes de Culles les Roches, oignons grelots, émulsion au lard fumé | 18  €
+Truite du Jura marinée à l’aneth<br/>Pomme d’Uchizy et radis noir, sorbet pomme gingembre | 18  €
+Ravioles de joue de bœuf confite<br/>foie gras, courges et bouillon d’oignons caramélisés | 18  €
 
 _(Prix à la carte)_
 
@@ -79,10 +80,11 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-**Saumon de fontaine rôti côté peau façon grenobloise** <br/>Câpres, croutons et citron confit, mijoté de haricots coco| 29 €
-**Filet de veau français servi rosé en croûte de noisettes** <br/>Gâteau de pommes de terre, carottes confites au miel jus réduit| 29 €
-**Pigeon de Baudrières en pithiviers** <br/>Farce fine au foie gras et dattes, jus tranché à l’huile d’argan| 29 €
-**Poulette de Bresse de chez Johan comme un pot au feu** <br/>Ravioles de champignons, légumes racines et bouillon truffé| 29 €
+Sandre de nos rivières<br/>Rôti côté peau, poireaux fumés, émulsion au curry du jardin | 29 €
+Filet de canette française<br/>Gnocchis de betteraves, réduction à l’orange bio et poivre long | 29 €
+1/2 Pigeon de Baudrière en pithiviers<br/>Farce fine au foie gras, réduction de jus des carcasses et crème de cassis | 29 €
+Pintade de Bresse en 2 façons<br/>La cuisse confite, le suprême farci aux trompettes, sauce salmis | 29 €
+
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
 
@@ -98,9 +100,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**Le Chocolat-Banane** <br/>Mœlleux banane, crémeux chocolat 40%, glace chocolat noir et bananes rôties | 12 €
-**Le Café-Miel** <br/>Crème brûlée au miel de Boyer, sablé breton, mousse glacée au café blanc, glace au miel de fleurs | 12 €
-**Le Soufflé chaud au Grand-Marnier, sorbet mandarine** | 12 €
+**Le Soufflé chaud** au Grand Marnier, sorbet mandarine | 12 €
+**la Châtaigne et les Agrumes** Moelleux châtaigne, crème aux éclats de marrons, kumquat et sorbet kalamansi | 12 €
+**Le Chocolat** Crumble chocolat, ganache montée chocolat cassis, sorbet cassis de Bourgogne | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -123,6 +125,7 @@ Origines des viandes, poissons et oeufs …et autres gourmandises
 - **Pommes, poires :** le Verger de la Panetière, Famille Curtil, Uchizy, 5 km
 - **Pain :** [Boulangerie L’Abricotine](/producteurs/boulangerie-l-abricotine), Famille Cordier, Tournus 5km
 - **Miel :** Miellerie de la Natouze, Gilbert Bontemps, Boyer, 10 km
+- **Fleurs comestibles :** Madame Printemps, Simandre, 14 km
 
 La liste des plats contenant des allergènes est disponible auprès de l’équipe.
 
