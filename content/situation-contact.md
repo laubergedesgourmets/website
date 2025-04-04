@@ -10,7 +10,7 @@ draft: false
 
 ### Par e-mail pour par téléphone
 
-<a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="/img/label_michelin_2024.png" alt="Guide Michelin - Bib Gourmand : nos meilleurs rapports qualité-prix" align="right" style="width:15vw;min-width:90px;max-width:130px;margin:0;"/></a>Nous sommes disponibles au [03 85 32 58 80](tel:0385325880) tous les jours sauf le mardi, le mercredi et le dimanche soir pour répondre à vos appels téléphoniques.
+<a href="https://guide.michelin.com/en/bourgogne-franche-comte/le-villars/restaurant/l-auberge-des-gourmets" target="_blank"><img src="/img/label_michelin_2025.svg" alt="Guide Michelin - Bib Gourmand : nos meilleurs rapports qualité-prix" align="right" style="width:15vw;min-width:90px;max-width:130px;margin-left:12px;"/></a>Nous sommes disponibles au [03 85 32 58 80](tel:0385325880) tous les jours sauf le mardi, le mercredi et le dimanche soir pour répondre à vos appels téléphoniques.
 Vous pouvez également nous écrire à l’adresse suivante : [contact@laubergedesgourmets.com](mailto:contact@laubergedesgourmets.com)
 
 
