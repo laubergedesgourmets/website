@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2025-10-01T2:34:44+01:00
-draft: false
+date: 2025-07-08T2:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -68,12 +68,10 @@ Entrée, Plat, Fromage et Dessert | 52 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-
-**Escargots de chez Amandine et pleurotes de Cules-les-Roches,** Tombée d’épinards et crème d’ail noir | 18 €
-**Œuf bio mollet de Tournus** Panais en déclinaison, noisettes et jus de viande truffé | 18 €
-**Retour de pêche de Nicolas Perrin** En mousseline aux écrevisses, émulsion estragon | 18 €
-**Royale de foie blond de Bresse et sot-l’y-laisse** Courges en différentes texture, émulsion à la tagette passion | 18 €
-
+**Œufs de caille pochés et truite du Jura fumée par nos soins** Concombres en déclinaison, skyr bio à l’aneth | 18 €
+**Escargots d’Amandine et petits pois** Tartelette sablée, bavaroise végétale, petits pois à la française | 18 €
+**Balade dans le jardin de Simandre** Légumes de chez Péri en différentes texture, fleurs de chez Madame Printemps, filet de canette laquée au miel de Boyer | 18 €
+**Gambas croustillantes au shiso pourpre** Houmous carottes et cacahuètes, réduction de jus de carcasses | 18 €
 
 _(Prix à la carte)_
 
@@ -81,10 +79,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-**Sandre de nos rivières à la Bourguignonne** Rôti côté peau, réduction pinot noir, risotto d’épeautre aux légumes de saison | 29 €
-**Poulette de Bresse de chez Johan en ballotine,** Farce fine au foie gras, crème de Bresse réduite au vin jaune | 29 €
-**Filet de bœuf charolais grillé au poivre de cassis** Légumes d’automne et pomme purée à l’huile de truffe | 29 €
-**1/2 Pigeon de Baudrière rôti sur coffre** La cuisse façon chou farcie et trompettes et jus de braisage | 29 €
+**Médaillon de lotte des côtes bretonnes rôti** <br/>Croûte aux herbes du jardin, mijoté de haricots coco au chorizo, émulsion piperade | 29 €
+**Filet de bœuf bio de la Ferme du Mont Rouge grillé** <br/>Tatin de tomates, grenailles en persillade et jus au foin | 29 €
+**1/2 Pigeon de Baudrières rôti sur coffre** <br/>Escalope de foie gras, cuisse confite, jus réduit aux fruits rouges | 29 €
+**Poulette de Bresse de chez Johan farcie aux écrevisses** <br/>Ravioles aux écrevisses aux petits légumes, crème d’estragon | 29 €
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
 
@@ -101,8 +99,8 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 **Le Soufflé chaud au Grand-Marnier, sorbet mandarine** | 12 €
-**la Pomme d’Uchizy** <br/>Confit de granny smith, blanc manger au citron yuzu, crémeux chocolat lait à la fève de tonka, crumble noisette sorbet pomme yuzu cerfeuil | 12€
-**Le Chocolat**<br/>Granola chocolat, ultra crémeux chocolat, caramel mou au chocolat, siphon à la vanille torréfié et crème glacée au gré de cacao | 12€
+**La Framboise**<br/>Tuile framboise, mousse chocolat blanc basilic, biscuit huile d’olive basilic, framboises fraîches et sorbet poivrons | 12€
+**L’Abricot et la Pêche**<br/>Biscuit dacquois amandes, compotée abricot pêche au romarin, ganache miel comme un nougat, sorbet abricot vanille et fleur de sel | 12€
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
