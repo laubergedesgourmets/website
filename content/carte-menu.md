@@ -68,7 +68,6 @@ Entrée, Plat, Fromage et Dessert | 52 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-
 **Escargots de chez Amandine et pleurotes de Cules-les-Roches,** Tombée d’épinards et crème d’ail noir | 18 €
 **Œuf bio mollet de Tournus** Panais en déclinaison, noisettes et jus de viande truffé | 18 €
 **Retour de pêche de Nicolas Perrin** En mousseline aux écrevisses, émulsion estragon | 18 €
