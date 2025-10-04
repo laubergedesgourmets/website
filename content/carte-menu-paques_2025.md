@@ -1,7 +1,7 @@
 ---
 title: Menu de Pâques 2025
 date: 2025-03-15T12:34:44+01:00
-draft: false
+draft: true
 type: page
 ---
 

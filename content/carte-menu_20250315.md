@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
 date: 2025-03-15T2:34:44+01:00
-draft: false
+draft: true
 type: page
 ---
 

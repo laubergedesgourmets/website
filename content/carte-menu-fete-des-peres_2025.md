@@ -1,7 +1,7 @@
 ---
 title: Menu de la Fête des Pères 2025
 date: 2025-05-01T12:34:44+01:00
-draft: false
+draft: true
 type: page
 ---
 

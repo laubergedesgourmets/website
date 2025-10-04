@@ -1,7 +1,7 @@
 ---
 title: "Carte Menu Fetes 2022"
 date: 2022-11-25T08:39:42+01:00
-draft: false
+draft: true
 ---
 
 ## Menus des Fêtes de fin d’année 2022
