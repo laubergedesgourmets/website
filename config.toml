@@ -27,12 +27,12 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
-  # [[menu.main]]
-    # identifier = "carte-menu-fete-des-meres_2025"
-    # name = "Fête des Mères"
-    # url = "/carte-menu-fete-des-meres_2025"
-    # weight = 3
-	# 
+  [[menu.main]]
+    identifier = "carte-menu-fetes-2025"
+    name = "Menu des fêtes"
+    url = "/carte-menu-fetes-2025"
+    weight = 3
+	
   # [[menu.main]]
 	# identifier = "carte-menu-fete-des-peres_2025"
 	# name = "Fête des Pères"
