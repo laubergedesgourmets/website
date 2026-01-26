@@ -33,6 +33,12 @@ theme = "ag"
     url = "/carte-menu-saint-valentin_2026"
     weight = 3
 	
+[[menu.main]]
+	identifier = "carte-menu-viandredi"
+	name = "Viandredi"
+	url = "/carte-menu-viandredi"
+	weight = 3
+	
   # [[menu.main]]
 	# identifier = "carte-menu-fete-des-peres_2025"
 	# name = "Fête des Pères"
