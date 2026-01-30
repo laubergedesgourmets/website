@@ -99,9 +99,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**Le Soufflé chaud au Grand-Marnier, sorbet mandarine** | 12 €
-**la Poire d’Uchizy** <br/> Rôtie au miel de sarrasin, sablé breton à la farine de gaude, praliné noisette, sarrasin, syphon au blé noir, sorbet poire | 12 €
-**Les Agrumes** <br/> Crémeux aux deux citrons, orange et pamplemousse frais, crumble chocolat au lait, meringue suisse et sorbet limencello  | 12 €
+**Le Soufflé chaud au Grand-Marnier, sorbet pamplemousse Cointreau** | 12 €
+**Le Chocolat** <br/> Parfait glacé chocolat 70%, sablé chocolat, siphon cacahuètes, sauce chocolat | 12 €
+**L'Exotique'** <br/> Crumble coco, compotée bananes vanille, émulsion fruit de la passion, sorbet litchi rose | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
