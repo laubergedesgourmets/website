@@ -1,9 +1,9 @@
 <div style="background-color: #3B59C6; color:white;text-align: center;padding: 1.3em;display: none;" id="vacances">
-	Nous sommes en vacances, réouverture le vendredi 21 mars 2025
+	Nous sommes en vacances, réouverture le vendredi 13 mars 2026 🍀
 </div>
 <script>
-	const startDate = new Date('2025-02-17');
-	const endDate = new Date('2025-03-20');
+	const startDate = new Date('2026-03-05');
+	const endDate = new Date('2026-03-12');
 	const currentDate = new Date();
 	if(currentDate >= startDate && currentDate <= endDate){
 		document.getElementById('vacances').style.display = 'block';
@@ -11,15 +11,6 @@
 </script>
 
 
-
-<script>
-	const startDateAnnonce = new Date('2025-01-30');
-	const endDateAnnonce = new Date('2025-03-20');
-	const currentDateAnnonce = new Date();
-	if(currentDateAnnonce >= startDateAnnonce && currentDateAnnonce <= endDateAnnonce){
-		document.getElementById('annonce').style.display = 'block';
-	}
-</script>
 
 <header>
 	<a href="{{ .Site.BaseURL }}" id="logo">
