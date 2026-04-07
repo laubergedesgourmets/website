@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2026-04-05T2:34:44+01:00
-draft: false
+date: 2026-01-05T2:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -68,10 +68,10 @@ Entrée, Plat, Fromage et Dessert | 52 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-**Escargots d’Amandine et ris de veau** <br/>En tartelette, praliné noisettes et crème d’ails des ours | 18 €
-**Œuf bio de Tournus servi mollet à la printanière** <br/>Morilles et asperges françaises, émulsion vin jaune | 18 €
-**Truite du Jura marinée au thé fumé** <br/>Gel vodka citron, pommes de terre Vitelottes et sorbet roquette | 18 €
-**Pâté en croûte du moment** <br/>Pickles de légumes, mayonnaise au paprika | 18 €
+**Escargots d’Amandine en ravioles** <br/> Mijoté de légumes racines de Simandre et truffe mélanosporum | 18 €
+**Œuf bio mollet de Tournus façon meurette** <br/> Pleurotes, oignons grelots, émulsion au lard fumé | 18 €
+**Truite du Jura marinée aux agrumes** <br/> Gel vodka, Caviar d’Aquitaine Neuvic et pommes de terre Vitelottes | 18 €
+**Pâté en croûte du moment** <br/> Pickles de légumes, mayonnaise au paprika | 18 €
 
 
 _(Prix à la carte)_
@@ -80,11 +80,10 @@ _(Prix à la carte)_
 
 Plats au choix | Prix
 ---------------------------------|------
-**Saumon de Fontaine saisi côté peau, citron confit et amandes torréfiées** <br/>Millefeuille de pommes de terre, coulis cresson | 29 €
-**Epaule d’agneau français confite au miel de Boyer** <br/>Pressé de carottes, ail nouveau et jus de braisage | 29 €
-**Demi-pigeon de Baudrière et foie gras poêlé** <br/>Petits pois à la française, jus tranché au vinaigre de cassis de Jayat | 29 €
-**Poulette de Bresse de chez Johan Morand en 2 façons** <br/>Le suprême farcie aux morilles, la cuisse croustillante, crème réduite au vin jaune | 29 €
-
+**Sandre de nos rivières rôti côté peau sauce bourguignonne** <br/> Risotto d’épeautre aux petits légumes | 29 €
+**Filet de canette française servie rosé** <br/> Gnocchis de betteraves, réduction à l’orange bio et poivre de Séchouan | 29 €
+**Demi Pigeon de Baudière en pithiviers** <br/> Foie gras et farce fines aux trompettes, jus de carcasses tranché à l’huile de noisettes | 29 €
+**Poulette de Bresse de chez Johan Morand en 2 façons** <br/> La cuisse croustillante et le suprême farci aux marrons, sauce truffée | 29 €
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
 
@@ -92,7 +91,7 @@ _servis avec la garniture du marché (Prix à la carte 29 €)_
 
 Fromage au choix | Prix
 ---------------------------------|------
-Fromage blanc d’Etrez, crème bio de Boyer, sucré ou salé | 7 €
+Fromage blanc bio de la ferme des Muses sucré ou salé | 7 €
 Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 €
 
 
@@ -101,36 +100,12 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 Dessert au choix | Prix
 ---------------------------------|------
 **Le Soufflé chaud au Grand-Marnier, sorbet pamplemousse Cointreau** | 12 €
-**Le Chocolat et la Vanille** <br/> Crème brûlée vanille , sorbet chocolat fleur de Coa 70%, tuile dentelle chocolat | 12 €
-**La Pistache** <br/> Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome | 12 €
+**Le Chocolat** <br/> Parfait glacé chocolat 70%, sablé chocolat, siphon cacahuètes, sauce chocolat | 12 €
+**L'Exotique'** <br/> Crumble coco, compotée bananes vanille, émulsion fruit de la passion, sorbet litchi rose | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
-
-## Menu découverte 65€
-### Supplément fromage 7€
-
-#### _Servi à l’ensemble de la table jusqu’à 13h00 pour le déjeuner et 20h30 pour le dîner_<br/><br/>
-
-### Œuf bio de Tournus servi mollet à la printanière<br/>“Morilles et asperges françaises, émulsion vin jaune“
-
-#### *****
-
-### Saumon de Fontaine saisi côté peau, citron confit et amandes torréfiées<br/>“Millefeuille de pommes de terre, coulis cresson“
-
-#### *****
-
-### Poulette de Bresse de chez Johan Morand en 2 façons<br/>“Le suprême farcie aux morilles, la cuisse croustillante, crème réduite au vin jaune“
-
-#### *****
-
-### Assiette de fromage affinés, saladine aux noisettes
-
-#### *****
-
-### Le Chocolat et la Vanille<br/>“Crème brûlée vanille, sorbet chocolat fleur de Coa 70%, crumble chocolat“
-
-## <br/><br/>Un petit tour chez nos producteurs
+## Un petit tour chez nos producteurs
 
 Origines des viandes, poissons et oeufs …et autres gourmandises
 
