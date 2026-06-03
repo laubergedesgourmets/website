@@ -27,11 +27,11 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
-  [[menu.main]]
-    identifier = "carte-menu-paques_2026"
-    name = "Menu de Pâques"
-    url = "/carte-menu-paques_2026"
-    weight = 4
+  # [[menu.main]]
+  #   identifier = "carte-menu-paques_2026"
+  #   name = "Menu de Pâques"
+  #   url = "/carte-menu-paques_2026"
+  #   weight = 4
 	
 # [[menu.main]]
 # 	identifier = "carte-menu-viandredi"
@@ -40,9 +40,9 @@ theme = "ag"
 # 	weight = 3
 	
   [[menu.main]]
-	identifier = "carte-menu-fete-des-meres_2026"
-	name = "Fête des Mères"
-	url = "/carte-menu-fete-des-meres_2026"
+	identifier = "carte-menu-fete-des-peres_2026"
+	name = "Fête des Pères"
+	url = "/carte-menu-fete-des-peres_2026"
 	weight = 5	
 
 
