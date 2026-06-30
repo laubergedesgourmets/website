@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2026-06-29T2:34:44+01:00
-draft: false
+date: 2026-04-05T2:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -42,7 +42,6 @@ Entrée, plat ou plat, dessert    | 25 €
 Entrée, plat, fromage ou dessert | 32 €
 Entrée, plat, fromage, dessert   | 37 €
 
-_Entrée 11 € / Plat 18 € / Dessert 8 €_
 
 _Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fériés_
 
@@ -62,27 +61,29 @@ _Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fé
 
 Menu à la carte | Prix
 ---------------------------------|------
-Entrée, Plat, Dessert	         | 47 €
-Entrée, Plat, Fromage et Dessert | 55 €	
+Entrée, Plat, Dessert	         | 45 €
+Entrée, Plat, Fromage et Dessert | 52 €	
 
 ### Pour débuter
 
 Entrées au choix | Prix
 ---------------------------------|------
-**Pâté en croûte estival**<br/>Pickles de légumes, mayonnaise fumée | 18 €
-**Invasion d’Escargots d’Amandine dans les jardins de Madame Printemps**<br/>Sponge cake persil, légumes en différentes textures, fleurs de Simandre | 18 €
-**Truite du Jura marinée aux agrumes et au thé fumé**<br/>Gel vodka citron, pommes de terre vitelottes et sorbet roquette | 18 €
-**Filet de bœuf bio de la ferme du Mont rouge séché aux 5 poivres**<br/>Houmous à l’aubergine fumée, tomme fraîche et mayonnaise à l’ail noir | 18 €
+**Escargots d’Amandine et ris de veau** <br/>En tartelette, praliné noisettes et crème d’ails des ours | 18 €
+**Œuf bio de Tournus servi mollet à la printanière** <br/>Morilles et asperges françaises, émulsion vin jaune | 18 €
+**Truite du Jura marinée au thé fumé** <br/>Gel vodka citron, pommes de terre Vitelottes et sorbet roquette | 18 €
+**Pâté en croûte du moment** <br/>Pickles de légumes, mayonnaise au paprika | 18 €
 
+
+_(Prix à la carte)_
 
 ### Pour suivre
 
 Plats au choix | Prix
 ---------------------------------|------
-**Demi-homard grillé au beurre de corail, abricots et verveine**<br/>Pommes parisiennes, légumes grillés, émulsion homard verveine | 29 €
-**Epaule d’agneau français confite lentement au miel de Boyer**<br/>Tatin de tomates, mousse de pommes de terre et jus de braisage | 29 €
-**Demi-pigeon de Baudrières et foie gras poêlé**<br/>Ketchup de fruits rouges, jus tranché au vinaigre de cassis de Jayat | 29 €
-**Poulette de Bresse de chez Johan Morand aux gambas**<br/>Risotto comme une paëlla, émulsion au chorizo | 29 €
+**Saumon de Fontaine saisi côté peau, citron confit et amandes torréfiées** <br/>Millefeuille de pommes de terre, coulis cresson | 29 €
+**Epaule d’agneau français confite au miel de Boyer** <br/>Pressé de carottes, ail nouveau et jus de braisage | 29 €
+**Demi-pigeon de Baudrière et foie gras poêlé** <br/>Petits pois à la française, jus tranché au vinaigre de cassis de Jayat | 29 €
+**Poulette de Bresse de chez Johan Morand en 2 façons** <br/>Le suprême farcie aux morilles, la cuisse croustillante, crème réduite au vin jaune | 29 €
 
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
@@ -91,7 +92,7 @@ _servis avec la garniture du marché (Prix à la carte 29 €)_
 
 Fromage au choix | Prix
 ---------------------------------|------
-Fromage blanc de la Chapelle-Thècle, crème bio de Boyer, sucré ou salé | 7 €
+Fromage blanc d’Etrez, crème bio de Boyer, sucré ou salé | 7 €
 Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 €
 
 
@@ -99,9 +100,9 @@ Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 
 
 Dessert au choix | Prix
 ---------------------------------|------
-**Le Soufflé chaud au Grand Marnier, sorbet pamplemousse Cointreau** | 12 €
-**Les Fruits du Verger** <br/> Meringue croquante, fruits de saison en différentes textures, crème glacée au lait d’amande et émulsion vanillée | 12 €
-**La Pistache et les fruits rouges** <br/> Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome, fruits rouges de saison | 12 €
+**Le Soufflé chaud au Grand-Marnier, sorbet pamplemousse Cointreau** | 12 €
+**Le Chocolat et la Vanille** <br/> Crème brûlée vanille , sorbet chocolat fleur de Coa 70%, tuile dentelle chocolat | 12 €
+**La Pistache** <br/> Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -111,23 +112,15 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 
 #### _Servi à l’ensemble de la table jusqu’à 13h00 pour le déjeuner et 20h30 pour le dîner_<br/><br/>
 
-### Amuse-bouche
+### Œuf bio de Tournus servi mollet à la printanière<br/>“Morilles et asperges françaises, émulsion vin jaune“
 
 #### *****
 
-### Truite du Jura marinée aux agrumes et au thé fumé <br/>Gel vodka citron, pommes de terre vitelottes et sorbet roquette
+### Saumon de Fontaine saisi côté peau, citron confit et amandes torréfiées<br/>“Millefeuille de pommes de terre, coulis cresson“
 
 #### *****
 
-### 1/2 homard grillé au beurre de corail, abricots et verveine<br/> Pommes parisiennes, légumes grillés, émulsion homard verveine
-
-#### *****
-
-### Poulette de Bresse de chez Johan Morand aux gambas <br/>Risotto comme une paëlla, émulsion au chorizo
-
-#### *****
-
-### Cuillère digestive
+### Poulette de Bresse de chez Johan Morand en 2 façons<br/>“Le suprême farcie aux morilles, la cuisse croustillante, crème réduite au vin jaune“
 
 #### *****
 
@@ -135,11 +128,7 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 
 #### *****
 
-### Fromage blanc de La Chapelle-thècle, salé ou sucré, crème bio
-
-#### *****
-
-### Les Fruits du Verger<br/> Meringue croquante, fruits de saison en différentes textures, crème glacée au lait d’amande et émulsion vanillée
+### Le Chocolat et la Vanille<br/>“Crème brûlée vanille, sorbet chocolat fleur de Coa 70%, crumble chocolat“
 
 ## <br/><br/>Un petit tour chez nos producteurs
 
