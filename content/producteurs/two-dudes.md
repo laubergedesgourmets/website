@@ -3,8 +3,9 @@ title: "Two Dudes"
 subtitle: "Brasseur&Cuisinier"
 location: "ZA du Pas Fleury - 71700 Tournus"
 products: "Bière artisanale"
-lat: 46.5573696
-long: 4.9102383
+schema_type: Brewery
+lat: 46.5575302
+long: 4.9143479
 banner: images/two-dudes_0.jpg
 banner1:  images/two-dudes_2.jpg
 banner2: images/two-dudes_1.jpg

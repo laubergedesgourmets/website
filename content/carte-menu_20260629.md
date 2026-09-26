@@ -1,7 +1,7 @@
 ---
 title: Carte et Menu de L'Auberge des Gourmets
-date: 2026-09-24T2:34:44+01:00
-draft: false
+date: 2026-06-29T2:34:44+01:00
+draft: true
 type: page
 ---
 
@@ -42,7 +42,7 @@ Entrée, plat ou plat, dessert    | 25 €
 Entrée, plat, fromage ou dessert | 32 €
 Entrée, plat, fromage, dessert   | 37 €
 
-_Entrée 12 € / Plat 19 € / Dessert 9 €_
+_Entrée 11 € / Plat 18 € / Dessert 8 €_
 
 _Servi uniquement les midis de semaine (lundi, jeudi et vendredi) hors jours fériés_
 
@@ -69,20 +69,21 @@ Entrée, Plat, Fromage et Dessert | 55 €
 
 Entrées au choix | Prix
 ---------------------------------|------
-**Pâté en croûte automnal**<br/>Pickles de légumes, chutney de coing | 18 €
-**Escargots d’Amandine et girolles en ravioles**<br/>Praliné noisettes, épinards et émulsion au lard fumé | 18 €
-**Truite du Jura marinée aux agrumes**<br/>Skyr bio, sorbet betteraves vodka | 18 €
-**Œuf bio de Tournus, patates douces en déclinaison**<br/>Dés de foie gras et pleurotes bio | 18 €
+**Pâté en croûte estival**<br/>Pickles de légumes, mayonnaise fumée | 18 €
+**Invasion d’Escargots d’Amandine dans les jardins de Madame Printemps**<br/>Sponge cake persil, légumes en différentes textures, fleurs de Simandre | 18 €
+**Truite du Jura marinée aux agrumes et au thé fumé**<br/>Gel vodka citron, pommes de terre vitelottes et sorbet roquette | 18 €
+**Filet de bœuf bio de la ferme du Mont rouge séché aux 5 poivres**<br/>Houmous à l’aubergine fumée, tomme fraîche et mayonnaise à l’ail noir | 18 €
 
 
 ### Pour suivre
 
 Plats au choix | Prix
 ---------------------------------|------
-**Dos de sandre de nos rivières rôti côté peau**<br/>Purée de choux-fleur torréfié, beurre blanc au crémant de Bourgogne | 29 €
-**Pavé de cerf sauce poivrade**<br/>Spätzle maison, choux rouge et poire d’Uchizy | 29 €
-**Demi-pigeon de Baudrières façon Rossini**<br/>Foie gras poêlé, brioche toastée et truffe d’été | 29 €
-**Poulette de Bresse de chez Johan farcie aux morilles**<br/>Mijoté de légumes racines, crème de vin jaune | 29 €
+**Demi-homard grillé au beurre de corail, abricots et verveine**<br/>Pommes parisiennes, légumes grillés, émulsion homard verveine | 29 €
+**Epaule d’agneau français confite lentement au miel de Boyer**<br/>Tatin de tomates, mousse de pommes de terre et jus de braisage | 29 €
+**Demi-pigeon de Baudrières et foie gras poêlé**<br/>Ketchup de fruits rouges, jus tranché au vinaigre de cassis de Jayat | 29 €
+**Poulette de Bresse de chez Johan Morand aux gambas**<br/>Risotto comme une paëlla, émulsion au chorizo | 29 €
+
 
 _servis avec la garniture du marché (Prix à la carte 29 €)_
 
@@ -92,7 +93,6 @@ Fromage au choix | Prix
 ---------------------------------|------
 Fromage blanc de la Chapelle-Thècle, crème bio de Boyer, sucré ou salé | 7 €
 Assiette de fromages affinés du moment, mesclun à l’huile de noisettes | 10 €
-Notre Fromage travaillé au grès des saisons | 10 €
 
 
 ### Pour terminer
@@ -100,8 +100,8 @@ Notre Fromage travaillé au grès des saisons | 10 €
 Dessert au choix | Prix
 ---------------------------------|------
 **Le Soufflé chaud au Grand Marnier, sorbet pamplemousse Cointreau** | 12 €
-**La poire d’Uchizy et le miel de Boyer**<br/>Compotée de poires au miel de châtaignier, crumble au sarrasin, bavaroise, sarrasin, sorbet poire | 12 €
-**Le Capuccino**<br/>Crumble chocolat 75%, praliné café noisettes, crémeux et glace café, mousse de lait | 12 €
+**Les Fruits du Verger** <br/> Meringue croquante, fruits de saison en différentes textures, crème glacée au lait d’amande et émulsion vanillée | 12 €
+**La Pistache et les fruits rouges** <br/> Crumble pistache, praliné pistache, ganache à la fleur d’oranger, crème glacée à la pistache torréfiée et cardamome, fruits rouges de saison | 12 €
 
 _N’hésitez pas à accompagner votre dessert du café du moment_
 
@@ -115,29 +115,31 @@ _N’hésitez pas à accompagner votre dessert du café du moment_
 
 #### *****
 
-### **Truite du Jura marinée aux agrumes**<br/>Skyr bio, sorbet betteraves vodka
+### Truite du Jura marinée aux agrumes et au thé fumé <br/>Gel vodka citron, pommes de terre vitelottes et sorbet roquette
 
 #### *****
 
-### **Dos de sandre de nos rivières rôti côté peau et choux fleur torréfié**<br/>Beurre blanc au crémant de Bourgogne
+### 1/2 homard grillé au beurre de corail, abricots et verveine<br/> Pommes parisiennes, légumes grillés, émulsion homard verveine
 
 #### *****
 
-### **Poulette de Bresse de chez Johan farcie aux morilles**<br/>Mijoté de légumes racines, crème de vin jaune
+### Poulette de Bresse de chez Johan Morand aux gambas <br/>Risotto comme une paëlla, émulsion au chorizo
 
-#### ******
+#### *****
 
 ### Cuillère digestive
 
 #### *****
 
-### **Notre Fromage travaillé**<br/>“Epoisse en différentes textures“
+### Assiette de fromage affinés, saladine aux noisettes
 
 #### *****
 
-### **Le Capuccino**<br/>Crumble chocolat 75%, praliné café noisettes, crémeux et glace café, mousse de lait
+### Fromage blanc de La Chapelle-thècle, salé ou sucré, crème bio
 
+#### *****
 
+### Les Fruits du Verger<br/> Meringue croquante, fruits de saison en différentes textures, crème glacée au lait d’amande et émulsion vanillée
 
 ## <br/><br/>Un petit tour chez nos producteurs
 

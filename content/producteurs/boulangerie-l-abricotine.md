@@ -3,6 +3,7 @@ title: "Boulangerie L'Abricotine"
 subtitle: "Famille Cordier"
 location: "14 Rue de la République, 71700 Tournus"
 products: "Pains"
+schema_type: Bakery
 lat: 46.5573696
 long: 4.9102383
 banner: images/boulangerie-l-abricotine_1.jpg

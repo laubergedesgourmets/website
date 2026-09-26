@@ -3,13 +3,13 @@ title: "La Ferme du Mont Rouge"
 subtitle: "Marine Seckler et Benoît Corsin"
 location: "Le Bourg, 71250 Blanot, Bourgogne"
 products: "Viande de Boeuf, de Veau élevé sous la mère, d'Agneau, de Porc Plein Air"
-lat: 46.60805
-long: 5.10292
+lat: 46.473958
+long: 4.733627
 banner: images/lafermedumontrouge_0.jpg
 banner1:  images/lafermedumontrouge_2.jpg
 banner2: images/lafermedumontrouge_1.jpg
 website : https://www.lafermedumontrouge.com/
-phone : +33 3 85 36 24 76.
+phone : +33 3 85 36 24 76
 km: "21km"
 date: 2020-11-22T14:25:59+01:00
 ---

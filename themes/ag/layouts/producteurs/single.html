@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-	
-	
-	<div class="banner container-full">		
+
+
+	<div class="banner container-full">
 		{{ if .Params.banner }}
 		<img src="../{{ .Params.banner }}" class="shadow"/>
 		{{ end }}
@@ -13,26 +13,38 @@
 		<img src="../{{ .Params.banner2 }}" class="shadow" />
 		{{ end }}
 	</div>
-	
-	<article style="margin-top:4em;">
-		
-		<h1>{{ .Title }}</h1>
+
+	<article style="margin-top:4em;" itemscope itemtype="https://schema.org/{{ .Params.schema_type | default "LocalBusiness" }}">
+		<link itemprop="url" href="{{ .Permalink }}">
+		{{ with .Params.website }}<link itemprop="sameAs" href="{{ . }}">{{ end }}
+		{{ with .Params.phone }}<meta itemprop="telephone" content="{{ trim . " ." }}">{{ end }}
+		{{ with .Params.banner }}<link itemprop="image" href="{{ printf "producteurs/%s" . | absURL }}">{{ end }}
+		{{ if and .Params.lat .Params.long }}
+		<div itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates">
+			<meta itemprop="latitude" content="{{ .Params.lat }}">
+			<meta itemprop="longitude" content="{{ .Params.long }}">
+		</div>
+		{{ end }}
+
+		<h1 itemprop="name">{{ .Title }}</h1>
 		{{ if .Params.subtitle }}
 	  	<h2>{{ .Params.subtitle }}</h2>
 		{{ end }}
 		{{ if .Params.location }}
-	  	<h3>{{ .Params.location }}</h3>
+	  	<h3 itemprop="address">{{ .Params.location }}</h3>
 		{{ end }}
 		{{ if .Params.products }}
-	  	<p>Produits : {{ .Params.products }}</p>
+	  	<p itemprop="makesOffer" itemscope itemtype="https://schema.org/Offer">Produits : <span itemprop="itemOffered" itemscope itemtype="https://schema.org/Product"><span itemprop="name">{{ .Params.products }}</span></span></p>
 		{{ end }}
 		{{ if .Params.km }}
 	  	<p>Distance : {{ .Params.km }}</p>
-		{{ end }}		
-  	
+		{{ end }}
+
+		<div itemprop="description">
 	  	{{ .Content }}
-		
+		</div>
+
 	</article>
-	
+
 
 {{ end }}

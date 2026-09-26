@@ -8,7 +8,7 @@ long: 5.10292
 banner: images/johan-morand-0.jpg
 banner1:  images/johan-morand-2.jpg
 banner2: images/johan-morand-1.jpg
-website : https://www.facebookcom/Volailles-de-Bresse-Morand-111555673678916/
+website : https://www.facebook.com/Volailles-de-Bresse-Morand-111555673678916/
 phone : +33 6 09 58 36 58
 km: "21km"
 date: 2020-11-22T14:25:59+01:00

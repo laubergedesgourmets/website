@@ -1,5 +1,14 @@
 {{ define "main" }}
 
+	{{ if and .File (hasPrefix .File.BaseFileName "carte-menu") }}
+	<div class="schema-wrapper" itemscope itemtype="https://schema.org/Menu" itemid="{{ .Permalink }}#menu">
+		<meta itemprop="name" content="{{ .Title }}">
+		<link itemprop="url" href="{{ .Permalink }}">
+		<meta itemprop="inLanguage" content="fr">
+		{{ .Content }}
+	</div>
+	{{ else }}
 	{{ .Content }}
+	{{ end }}
 
 {{ end }}
