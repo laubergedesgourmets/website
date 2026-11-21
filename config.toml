@@ -27,6 +27,12 @@ theme = "ag"
 		url = "/carte-menu/"
 		weight = 3
 
+  [[menu.main]]
+		identifier = "carte-menu-fetes-2026"
+		name = "Menu des fêtes 🎄"
+		url = "/carte-menu-fetes-2026/"
+		weight = 4
+
   # [[menu.main]]
   #   identifier = "carte-menu-paques_2026"
   #   name = "Menu de Pâques"
