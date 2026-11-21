@@ -25,6 +25,23 @@ Terrasse et salle climatisée.
 {{% /box %}}
 
 
+## <br/>Nos horaires pendant les fêtes 🎄
+
+Jour | Ouverture
+---------------------------------|------
+Lundi 21 et mardi 22 décembre | Fermé
+Mercredi 23 et jeudi 24 décembre | Vente à emporter uniquement
+Vendredi 25 décembre | Menu des fêtes sur place le midi, fermé le soir
+Samedi 26 décembre | Ouvert le soir
+Dimanche 27 décembre | Ouvert le midi
+Du lundi 28 au mercredi 30 décembre | Fermé
+Jeudi 31 décembre | Ouvert le soir pour la Saint-Sylvestre
+Vendredi 1er janvier | Ouvert pour le service du jour de l’An
+
+Découvrez notre [menu des fêtes et nos plats à emporter](/carte-menu-fetes-2026/).
+
+<hr>
+
 <p>En famille ou entre amis, venez découvrir à l’Auberge des Gourmets une cuisine dans l’air du temps élaborée à partir de produits frais, de saison et régionaux. Le Chef vous propose des plats authentiques teintés de tradition et de créativité, toujours dans le respect du produit.
 </p>
 

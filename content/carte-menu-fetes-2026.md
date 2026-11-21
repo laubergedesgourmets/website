@@ -47,6 +47,22 @@ _Prix nets_
 
 <br/>
 
+## Nos horaires pendant les fêtes
+
+
+Jour | Ouverture
+---------------------------------|------
+Lundi 21 et mardi 22 décembre | Fermé
+Mercredi 23 et jeudi 24 décembre | Vente à emporter uniquement
+Vendredi 25 décembre | Menu des fêtes sur place le midi, fermé le soir
+Samedi 26 décembre | Ouvert le soir
+Dimanche 27 décembre | Ouvert le midi
+Du lundi 28 au mercredi 30 décembre | Fermé
+Jeudi 31 décembre | Ouvert le soir pour la Saint-Sylvestre
+Vendredi 1er janvier | Ouvert pour le service du jour de l’An
+
+<br/>
+
 ## L’Auberge à emporter
 
 
